@@ -1,0 +1,722 @@
+date,cmname,unit,category,price,currency,country,admname,adm1id,mktname,mktid,cmid,ptid,umid,catid,sn,default,year,label,cmnameshort,x,scaling,interpolated
+#date,#item+name,#item+unit,#item+type,#value,#currency,#country+name,#adm1+name,#adm1+code,#name+market,,#item+code,,,#item+type+code,#meta+id,,0.0,#item+label,#item+name+short,,,
+2014-01-15,Beans - Retail,KG,pulses and nuts,466.29,MWK,Malawi,Southern Region,1890.0,Jali,778.0,50,15.0,5.0,5,778_50_15_5,,2014.0,Beans - Retail (KG),Beans,1389744000.0,1.0,0.0
+2014-02-15,Beans - Retail,KG,pulses and nuts,458.6106111111111,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-03-15,Beans - Retail,KG,pulses and nuts,451.67438888888887,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-04-15,Beans - Retail,KG,pulses and nuts,443.995,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,50,15.0,5.0,5,763_50_15_5,,2014.0,Beans - Retail (KG),Beans,1397520000.0,1.0,0.0
+2014-05-15,Beans - Retail,KG,pulses and nuts,440.8391176470588,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-06-15,Beans - Retail,KG,pulses and nuts,437.57803921568626,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-07-15,Beans - Retail,KG,pulses and nuts,434.4221568627451,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-08-15,Beans - Retail,KG,pulses and nuts,431.1610784313725,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-09-15,Beans - Retail,KG,pulses and nuts,427.9,MWK,Malawi,Central Region,1888.0,Tsangano turn off,833.0,50,15.0,5.0,5,833_50_15_5,,2014.0,Beans - Retail (KG),Beans,1410739200.0,1.0,0.0
+2014-10-15,Beans - Retail,KG,pulses and nuts,480.425,MWK,Malawi,Northern Region,1889.0,Rumphi,818.0,50,15.0,5.0,5,818_50_15_5,,2014.0,Beans - Retail (KG),Beans,1413331200.0,1.0,0.0
+2014-11-15,Beans - Retail,KG,pulses and nuts,488.6044262295082,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2014-12-15,Beans - Retail,KG,pulses and nuts,496.52,MWK,Malawi,Central Region,1888.0,Mwansambo,798.0,50,15.0,5.0,5,798_50_15_5,,2014.0,Beans - Retail (KG),Beans,1418601600.0,1.0,0.0
+2015-01-15,Beans - Retail,KG,pulses and nuts,507.7067,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,50,15.0,5.0,5,763_50_15_5,,2015.0,Beans - Retail (KG),Beans,1421280000.0,1.0,0.0
+2015-02-15,Beans - Retail,KG,pulses and nuts,600.0,MWK,Malawi,Central Region,1888.0,Thete,822.0,50,15.0,5.0,5,822_50_15_5,,2015.0,Beans - Retail (KG),Beans,1423958400.0,1.0,0.0
+2015-03-15,Beans - Retail,KG,pulses and nuts,557.1348314606741,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2015-04-15,Beans - Retail,KG,pulses and nuts,509.6769662921348,,,,,,,50,,,5,,,,Beans - Retail (KG),Beans,,1.0,1.0
+2015-05-15,Beans - Retail,KG,pulses and nuts,463.75,MWK,Malawi,Central Region,1888.0,Nkhoma,809.0,50,15.0,5.0,5,809_50_15_5,,2015.0,Beans - Retail (KG),Beans,1431648000.0,1.0,0.0
+2015-06-15,Beans - Retail,KG,pulses and nuts,516.4625,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,50,15.0,5.0,5,791_50_15_5,,2015.0,Beans - Retail (KG),Beans,1434326400.0,1.0,0.0
+2015-07-15,Beans - Retail,KG,pulses and nuts,522.878,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,50,15.0,5.0,5,791_50_15_5,,2015.0,Beans - Retail (KG),Beans,1436918400.0,1.0,0.0
+2015-08-15,Beans - Retail,KG,pulses and nuts,519.215,MWK,Malawi,Southern Region,1890.0,Monkey Bay,793.0,50,15.0,5.0,5,793_50_15_5,,2015.0,Beans - Retail (KG),Beans,1439596800.0,1.0,0.0
+2015-09-15,Beans - Retail,KG,pulses and nuts,518.42,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,50,15.0,5.0,5,801_50_15_5,,2015.0,Beans - Retail (KG),Beans,1442275200.0,1.0,0.0
+2015-10-15,Beans - Retail,KG,pulses and nuts,462.43,MWK,Malawi,Central Region,1888.0,Thete,822.0,50,15.0,5.0,5,822_50_15_5,,2015.0,Beans - Retail (KG),Beans,1444867200.0,1.0,0.0
+2015-11-15,Beans - Retail,KG,pulses and nuts,460.8,MWK,Malawi,Southern Region,1890.0,Chiradzulu,773.0,50,15.0,5.0,5,773_50_15_5,,2015.0,Beans - Retail (KG),Beans,1447545600.0,1.0,0.0
+2015-12-15,Beans - Retail,KG,pulses and nuts,614.19,MWK,Malawi,Central Region,1888.0,Mponela,795.0,50,15.0,5.0,5,795_50_15_5,,2015.0,Beans - Retail (KG),Beans,1450137600.0,1.0,0.0
+2016-01-15,Beans - Retail,KG,pulses and nuts,670.8875,MWK,Malawi,Southern Region,1890.0,Bvumbwe,767.0,50,15.0,5.0,5,767_50_15_5,,2016.0,Beans - Retail (KG),Beans,1452816000.0,1.0,0.0
+2016-02-15,Beans - Retail,KG,pulses and nuts,691.0975,MWK,Malawi,Southern Region,1890.0,Monkey Bay,793.0,50,15.0,5.0,5,793_50_15_5,,2016.0,Beans - Retail (KG),Beans,1455494400.0,1.0,0.0
+2016-03-15,Beans - Retail,KG,pulses and nuts,666.66,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,50,15.0,5.0,5,768_50_15_5,,2016.0,Beans - Retail (KG),Beans,1458000000.0,1.0,0.0
+2016-04-15,Beans - Retail,KG,pulses and nuts,647.6867,MWK,Malawi,Southern Region,1890.0,Ntaja,813.0,50,15.0,5.0,5,813_50_15_5,,2016.0,Beans - Retail (KG),Beans,1460678400.0,1.0,0.0
+2016-05-15,Beans - Retail,KG,pulses and nuts,650.7775,MWK,Malawi,Southern Region,1890.0,Ntaja,813.0,50,15.0,5.0,5,813_50_15_5,,2016.0,Beans - Retail (KG),Beans,1463270400.0,1.0,0.0
+2016-06-15,Beans - Retail,KG,pulses and nuts,679.66,MWK,Malawi,Southern Region,1890.0,Liwonde,782.0,50,15.0,5.0,5,782_50_15_5,,2016.0,Beans - Retail (KG),Beans,1465948800.0,1.0,0.0
+2016-07-15,Beans - Retail,KG,pulses and nuts,721.91,MWK,Malawi,Northern Region,1889.0,Rumphi,818.0,50,15.0,5.0,5,818_50_15_5,,2016.0,Beans - Retail (KG),Beans,1468540800.0,1.0,0.0
+2016-08-15,Beans - Retail,KG,pulses and nuts,753.78,MWK,Malawi,Northern Region,1889.0,Nkhata Bay,808.0,50,15.0,5.0,5,808_50_15_5,,2016.0,Beans - Retail (KG),Beans,1471219200.0,1.0,0.0
+2016-09-15,Beans - Retail,KG,pulses and nuts,784.2625,MWK,Malawi,Central Region,1888.0,Nkhoma,809.0,50,15.0,5.0,5,809_50_15_5,,2016.0,Beans - Retail (KG),Beans,1473897600.0,1.0,0.0
+2016-10-15,Beans - Retail,KG,pulses and nuts,784.2867,MWK,Malawi,Northern Region,1889.0,Nkhata Bay,808.0,50,15.0,5.0,5,808_50_15_5,,2016.0,Beans - Retail (KG),Beans,1476489600.0,1.0,0.0
+2016-11-15,Beans - Retail,KG,pulses and nuts,770.36,MWK,Malawi,Central Region,1888.0,Tsangano turn off,833.0,50,15.0,5.0,5,833_50_15_5,,2016.0,Beans - Retail (KG),Beans,1479168000.0,1.0,0.0
+2016-12-15,Beans - Retail,KG,pulses and nuts,850.54,MWK,Malawi,Southern Region,1890.0,Jali,778.0,50,15.0,5.0,5,778_50_15_5,,2016.0,Beans - Retail (KG),Beans,1481760000.0,1.0,0.0
+2017-01-15,Beans - Retail,KG,pulses and nuts,996.3875,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,50,15.0,5.0,5,784_50_15_5,,2017.0,Beans - Retail (KG),Beans,1484438400.0,1.0,0.0
+2017-02-15,Beans - Retail,KG,pulses and nuts,885.25,MWK,Malawi,Southern Region,1890.0,Sorgin,811.0,50,15.0,5.0,5,811_50_15_5,,2017.0,Beans - Retail (KG),Beans,1487116800.0,1.0,0.0
+2017-03-15,Beans - Retail,KG,pulses and nuts,770.422,MWK,Malawi,Central Region,1888.0,Nsundwe,812.0,50,15.0,5.0,5,812_50_15_5,,2017.0,Beans - Retail (KG),Beans,1489536000.0,1.0,0.0
+2017-04-15,Beans - Retail,KG,pulses and nuts,636.6667,MWK,Malawi,Central Region,1888.0,Nkhoma,809.0,50,15.0,5.0,5,809_50_15_5,,2017.0,Beans - Retail (KG),Beans,1492214400.0,1.0,0.0
+2017-05-15,Beans - Retail,KG,pulses and nuts,998.26,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,50,15.0,5.0,5,768_50_15_5,,2017.0,Beans - Retail (KG),Beans,1494806400.0,1.0,0.0
+2017-06-15,Beans - Retail,KG,pulses and nuts,654.6433,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,50,15.0,5.0,5,763_50_15_5,,2017.0,Beans - Retail (KG),Beans,1497484800.0,1.0,0.0
+2017-07-15,Beans - Retail,KG,pulses and nuts,622.9375,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2017.0,Beans - Retail (KG),Beans,1500076800.0,1.0,0.0
+2017-08-15,Beans - Retail,KG,pulses and nuts,650.0,MWK,Malawi,Southern Region,1890.0,Phalombe,817.0,50,15.0,5.0,5,817_50_15_5,,2017.0,Beans - Retail (KG),Beans,1502755200.0,1.0,0.0
+2017-09-15,Beans - Retail,KG,pulses and nuts,675.0,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,50,15.0,5.0,5,763_50_15_5,,2017.0,Beans - Retail (KG),Beans,1505433600.0,1.0,0.0
+2017-10-15,Beans - Retail,KG,pulses and nuts,703.3233,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,50,15.0,5.0,5,788_50_15_5,,2017.0,Beans - Retail (KG),Beans,1508025600.0,1.0,0.0
+2017-11-15,Beans - Retail,KG,pulses and nuts,678.474,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,50,15.0,5.0,5,784_50_15_5,,2017.0,Beans - Retail (KG),Beans,1510704000.0,1.0,0.0
+2017-12-15,Beans - Retail,KG,pulses and nuts,700.24,MWK,Malawi,Central Region,1888.0,Tsangano turn off,833.0,50,15.0,5.0,5,833_50_15_5,,2017.0,Beans - Retail (KG),Beans,1513296000.0,1.0,0.0
+2018-01-15,Beans - Retail,KG,pulses and nuts,765.3333,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,50,15.0,5.0,5,768_50_15_5,,2018.0,Beans - Retail (KG),Beans,1515974400.0,1.0,0.0
+2018-02-15,Beans - Retail,KG,pulses and nuts,760.5525,MWK,Malawi,Central Region,1888.0,Nsundwe,812.0,50,15.0,5.0,5,812_50_15_5,,2018.0,Beans - Retail (KG),Beans,1518652800.0,1.0,0.0
+2018-03-15,Beans - Retail,KG,pulses and nuts,733.04,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2018.0,Beans - Retail (KG),Beans,1521072000.0,1.0,0.0
+2018-04-15,Beans - Retail,KG,pulses and nuts,717.1375,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2018.0,Beans - Retail (KG),Beans,1523750400.0,1.0,0.0
+2018-05-15,Beans - Retail,KG,pulses and nuts,736.33,MWK,Malawi,Central Region,1888.0,Mwansambo,798.0,50,15.0,5.0,5,798_50_15_5,,2018.0,Beans - Retail (KG),Beans,1526342400.0,1.0,0.0
+2018-06-15,Beans - Retail,KG,pulses and nuts,654.78,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2018.0,Beans - Retail (KG),Beans,1529020800.0,1.0,0.0
+2018-07-15,Beans - Retail,KG,pulses and nuts,698.325,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,50,15.0,5.0,5,784_50_15_5,,2018.0,Beans - Retail (KG),Beans,1531612800.0,1.0,0.0
+2018-08-15,Beans - Retail,KG,pulses and nuts,710.4475,MWK,Malawi,Central Region,1888.0,Salima,819.0,50,15.0,5.0,5,819_50_15_5,,2018.0,Beans - Retail (KG),Beans,1534291200.0,1.0,0.0
+2018-09-15,Beans - Retail,KG,pulses and nuts,706.37,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2018.0,Beans - Retail (KG),Beans,1536969600.0,1.0,0.0
+2018-10-15,Beans - Retail,KG,pulses and nuts,690.8925,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2018.0,Beans - Retail (KG),Beans,1539561600.0,1.0,0.0
+2018-11-15,Beans - Retail,KG,pulses and nuts,761.6825,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2018.0,Beans - Retail (KG),Beans,1542240000.0,1.0,0.0
+2018-12-15,Beans - Retail,KG,pulses and nuts,765.11,MWK,Malawi,Northern Region,1889.0,Hewe,777.0,50,15.0,5.0,5,777_50_15_5,,2018.0,Beans - Retail (KG),Beans,1544832000.0,1.0,0.0
+2019-01-15,Beans - Retail,KG,pulses and nuts,795.53,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,50,15.0,5.0,5,788_50_15_5,,2019.0,Beans - Retail (KG),Beans,1547510400.0,1.0,0.0
+2019-02-15,Beans - Retail,KG,pulses and nuts,825.43,MWK,Malawi,Northern Region,1889.0,Rumphi,818.0,50,15.0,5.0,5,818_50_15_5,,2019.0,Beans - Retail (KG),Beans,1550188800.0,1.0,0.0
+2019-03-15,Beans - Retail,KG,pulses and nuts,801.1125,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,50,15.0,5.0,5,787_50_15_5,,2019.0,Beans - Retail (KG),Beans,1552608000.0,1.0,0.0
+2019-04-15,Beans - Retail,KG,pulses and nuts,720.2975,MWK,Malawi,Central Region,1888.0,Salima,819.0,50,15.0,5.0,5,819_50_15_5,,2019.0,Beans - Retail (KG),Beans,1555286400.0,1.0,0.0
+2019-05-15,Beans - Retail,KG,pulses and nuts,700.0,MWK,Malawi,Central Region,1888.0,Golomoti,2224.0,50,15.0,5.0,5,2224_50_15_5,,2019.0,Beans - Retail (KG),Beans,1557878400.0,1.0,0.0
+2019-06-15,Beans - Retail,KG,pulses and nuts,762.5,MWK,Malawi,Central Region,1888.0,Waliranji,2116.0,50,15.0,5.0,5,2116_50_15_5,,2019.0,Beans - Retail (KG),Beans,1560556800.0,1.0,0.0
+2019-07-15,Beans - Retail,KG,pulses and nuts,779.1667,MWK,Malawi,Southern Region,1890.0,Dyelatu,2124.0,50,15.0,5.0,5,2124_50_15_5,,2019.0,Beans - Retail (KG),Beans,1563148800.0,1.0,0.0
+2019-08-15,Beans - Retail,KG,pulses and nuts,761.375,MWK,Malawi,Southern Region,1890.0,Muloza,797.0,50,15.0,5.0,5,797_50_15_5,,2019.0,Beans - Retail (KG),Beans,1565827200.0,1.0,0.0
+2019-09-15,Beans - Retail,KG,pulses and nuts,697.5,MWK,Malawi,Southern Region,1890.0,Muloza,797.0,50,15.0,5.0,5,797_50_15_5,,2019.0,Beans - Retail (KG),Beans,1568505600.0,1.0,0.0
+2019-10-15,Beans - Retail,KG,pulses and nuts,793.545,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,50,15.0,5.0,5,784_50_15_5,,2019.0,Beans - Retail (KG),Beans,1571097600.0,1.0,0.0
+2019-11-15,Beans - Retail,KG,pulses and nuts,800.0,MWK,Malawi,Central Region,1888.0,Dwangwa,775.0,50,15.0,5.0,5,775_50_15_5,,2019.0,Beans - Retail (KG),Beans,1573776000.0,1.0,0.0
+2019-12-15,Beans - Retail,KG,pulses and nuts,829.16,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,50,15.0,5.0,5,763_50_15_5,,2019.0,Beans - Retail (KG),Beans,1576368000.0,1.0,0.0
+2014-01-15,Cassava - Retail,KG,cereals and tubers,111.46,MWK,Malawi,Central Region,1888.0,Chimbiya,771.0,68,15.0,5.0,1,771_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1389744000.0,1.0,0.0
+2014-02-15,Cassava - Retail,KG,cereals and tubers,113.32430555555555,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2014-03-15,Cassava - Retail,KG,cereals and tubers,115.00819444444444,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2014-04-15,Cassava - Retail,KG,cereals and tubers,116.8725,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1397520000.0,1.0,0.0
+2014-05-15,Cassava - Retail,KG,cereals and tubers,117.55979508196721,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2014-06-15,Cassava - Retail,KG,cereals and tubers,118.27,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1402790400.0,1.0,0.0
+2014-07-15,Cassava - Retail,KG,cereals and tubers,116.80097826086956,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2014-08-15,Cassava - Retail,KG,cereals and tubers,115.28298913043479,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2014-09-15,Cassava - Retail,KG,cereals and tubers,113.765,MWK,Malawi,Northern Region,1889.0,Mpamba,794.0,68,15.0,5.0,1,794_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1410739200.0,1.0,0.0
+2014-10-15,Cassava - Retail,KG,cereals and tubers,124.56,MWK,Malawi,Central Region,1888.0,Mtakataka,796.0,68,15.0,5.0,1,796_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1413331200.0,1.0,0.0
+2014-11-15,Cassava - Retail,KG,cereals and tubers,253.24,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1416009600.0,1.0,0.0
+2014-12-15,Cassava - Retail,KG,cereals and tubers,125.33,MWK,Malawi,Central Region,1888.0,Madisi,785.0,68,15.0,5.0,1,785_68_15_5,,2014.0,Cassava - Retail (KG),Cassava,1418601600.0,1.0,0.0
+2015-01-15,Cassava - Retail,KG,cereals and tubers,142.57,MWK,Malawi,Northern Region,1889.0,Mpamba,794.0,68,15.0,5.0,1,794_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1421280000.0,1.0,0.0
+2015-02-15,Cassava - Retail,KG,cereals and tubers,159.49,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,68,15.0,5.0,1,791_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1423958400.0,1.0,0.0
+2015-03-15,Cassava - Retail,KG,cereals and tubers,240.1,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1426377600.0,1.0,0.0
+2015-04-15,Cassava - Retail,KG,cereals and tubers,217.52,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1429056000.0,1.0,0.0
+2015-05-15,Cassava - Retail,KG,cereals and tubers,255.0,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1431648000.0,1.0,0.0
+2015-06-15,Cassava - Retail,KG,cereals and tubers,202.9149180327869,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2015-07-15,Cassava - Retail,KG,cereals and tubers,152.51,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1436918400.0,1.0,0.0
+2015-08-15,Cassava - Retail,KG,cereals and tubers,193.85,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1439596800.0,1.0,0.0
+2015-09-15,Cassava - Retail,KG,cereals and tubers,325.55,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1442275200.0,1.0,0.0
+2015-10-15,Cassava - Retail,KG,cereals and tubers,326.49,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1444867200.0,1.0,0.0
+2015-11-15,Cassava - Retail,KG,cereals and tubers,206.25,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2015.0,Cassava - Retail (KG),Cassava,1447545600.0,1.0,0.0
+2015-12-15,Cassava - Retail,KG,cereals and tubers,272.17622950819674,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2016-01-15,Cassava - Retail,KG,cereals and tubers,340.3,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1452816000.0,1.0,0.0
+2016-02-15,Cassava - Retail,KG,cereals and tubers,268.71066666666667,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2016-03-15,Cassava - Retail,KG,cereals and tubers,201.74,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1458000000.0,1.0,0.0
+2016-04-15,Cassava - Retail,KG,cereals and tubers,275.25,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1460678400.0,1.0,0.0
+2016-05-15,Cassava - Retail,KG,cereals and tubers,231.11,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1463270400.0,1.0,0.0
+2016-06-15,Cassava - Retail,KG,cereals and tubers,209.71,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1465948800.0,1.0,0.0
+2016-07-15,Cassava - Retail,KG,cereals and tubers,232.96,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1468540800.0,1.0,0.0
+2016-08-15,Cassava - Retail,KG,cereals and tubers,256.43,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1471219200.0,1.0,0.0
+2016-09-15,Cassava - Retail,KG,cereals and tubers,302.9147540983606,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2016-10-15,Cassava - Retail,KG,cereals and tubers,347.9,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1476489600.0,1.0,0.0
+2016-11-15,Cassava - Retail,KG,cereals and tubers,343.2144262295082,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2016-12-15,Cassava - Retail,KG,cereals and tubers,338.68,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2016.0,Cassava - Retail (KG),Cassava,1481760000.0,1.0,0.0
+2017-01-15,Cassava - Retail,KG,cereals and tubers,337.0,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1484438400.0,1.0,0.0
+2017-02-15,Cassava - Retail,KG,cereals and tubers,352.2,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1487116800.0,1.0,0.0
+2017-03-15,Cassava - Retail,KG,cereals and tubers,365.9294915254237,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2017-04-15,Cassava - Retail,KG,cereals and tubers,381.13,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1492214400.0,1.0,0.0
+2017-05-15,Cassava - Retail,KG,cereals and tubers,372.8,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1494806400.0,1.0,0.0
+2017-06-15,Cassava - Retail,KG,cereals and tubers,328.23,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1497484800.0,1.0,0.0
+2017-07-15,Cassava - Retail,KG,cereals and tubers,306.82,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1500076800.0,1.0,0.0
+2017-08-15,Cassava - Retail,KG,cereals and tubers,352.66,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1502755200.0,1.0,0.0
+2017-09-15,Cassava - Retail,KG,cereals and tubers,325.55,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1505433600.0,1.0,0.0
+2017-10-15,Cassava - Retail,KG,cereals and tubers,384.52,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1508025600.0,1.0,0.0
+2017-11-15,Cassava - Retail,KG,cereals and tubers,367.92,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1510704000.0,1.0,0.0
+2017-12-15,Cassava - Retail,KG,cereals and tubers,352.66,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2017.0,Cassava - Retail (KG),Cassava,1513296000.0,1.0,0.0
+2018-01-15,Cassava - Retail,KG,cereals and tubers,396.22,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1515974400.0,1.0,0.0
+2018-02-15,Cassava - Retail,KG,cereals and tubers,388.85,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1518652800.0,1.0,0.0
+2018-03-15,Cassava - Retail,KG,cereals and tubers,188.56,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1521072000.0,1.0,0.0
+2018-04-15,Cassava - Retail,KG,cereals and tubers,165.78,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1523750400.0,1.0,0.0
+2018-05-15,Cassava - Retail,KG,cereals and tubers,155.7,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1526342400.0,1.0,0.0
+2018-06-15,Cassava - Retail,KG,cereals and tubers,314.85,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1529020800.0,1.0,0.0
+2018-07-15,Cassava - Retail,KG,cereals and tubers,315.0,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1531612800.0,1.0,0.0
+2018-08-15,Cassava - Retail,KG,cereals and tubers,264.35,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1534291200.0,1.0,0.0
+2018-09-15,Cassava - Retail,KG,cereals and tubers,341.8,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1536969600.0,1.0,0.0
+2018-10-15,Cassava - Retail,KG,cereals and tubers,328.6,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1539561600.0,1.0,0.0
+2018-11-15,Cassava - Retail,KG,cereals and tubers,331.26,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1542240000.0,1.0,0.0
+2018-12-15,Cassava - Retail,KG,cereals and tubers,330.81,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2018.0,Cassava - Retail (KG),Cassava,1544832000.0,1.0,0.0
+2019-01-15,Cassava - Retail,KG,cereals and tubers,305.66,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1547510400.0,1.0,0.0
+2019-02-15,Cassava - Retail,KG,cereals and tubers,330.25,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1550188800.0,1.0,0.0
+2019-03-15,Cassava - Retail,KG,cereals and tubers,390.45,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1552608000.0,1.0,0.0
+2019-04-15,Cassava - Retail,KG,cereals and tubers,395.45,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1555286400.0,1.0,0.0
+2019-05-15,Cassava - Retail,KG,cereals and tubers,371.1038461538462,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2019-06-15,Cassava - Retail,KG,cereals and tubers,345.94615384615383,,,,,,,68,,,1,,,,Cassava - Retail (KG),Cassava,,1.0,1.0
+2019-07-15,Cassava - Retail,KG,cereals and tubers,321.6,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1563148800.0,1.0,0.0
+2019-08-15,Cassava - Retail,KG,cereals and tubers,255.3,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1565827200.0,1.0,0.0
+2019-09-15,Cassava - Retail,KG,cereals and tubers,220.7,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1568505600.0,1.0,0.0
+2019-10-15,Cassava - Retail,KG,cereals and tubers,396.68,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1571097600.0,1.0,0.0
+2019-11-15,Cassava - Retail,KG,cereals and tubers,393.75,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1573776000.0,1.0,0.0
+2019-12-15,Cassava - Retail,KG,cereals and tubers,354.83,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,68,15.0,5.0,1,801_68_15_5,,2019.0,Cassava - Retail (KG),Cassava,1576368000.0,1.0,0.0
+2014-01-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-02-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-03-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-04-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-05-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-06-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-07-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-08-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-09-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-10-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-11-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-12-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-01-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-02-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-03-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-04-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-05-15,Cowpeas - Retail,KG,pulses and nuts,324.3625,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,218,15.0,5.0,5,791_218_15_5,,2015.0,Cowpeas - Retail (KG),Cowpeas,1431648000.0,1.0,0.0
+2015-06-15,Cowpeas - Retail,KG,pulses and nuts,306.065,MWK,Malawi,Southern Region,1890.0,Ngabu,806.0,218,15.0,5.0,5,806_218_15_5,,2015.0,Cowpeas - Retail (KG),Cowpeas,1434326400.0,1.0,0.0
+2015-07-15,Cowpeas - Retail,KG,pulses and nuts,306.46223776223775,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-08-15,Cowpeas - Retail,KG,pulses and nuts,306.8727167832168,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-09-15,Cowpeas - Retail,KG,pulses and nuts,307.2831958041958,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-10-15,Cowpeas - Retail,KG,pulses and nuts,307.6804335664336,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-11-15,Cowpeas - Retail,KG,pulses and nuts,308.09091258741256,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2015-12-15,Cowpeas - Retail,KG,pulses and nuts,308.48815034965037,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-01-15,Cowpeas - Retail,KG,pulses and nuts,308.89862937062935,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-02-15,Cowpeas - Retail,KG,pulses and nuts,309.3091083916084,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-03-15,Cowpeas - Retail,KG,pulses and nuts,309.6931048951049,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-04-15,Cowpeas - Retail,KG,pulses and nuts,310.1035839160839,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-05-15,Cowpeas - Retail,KG,pulses and nuts,310.5008216783217,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-06-15,Cowpeas - Retail,KG,pulses and nuts,310.9113006993007,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-07-15,Cowpeas - Retail,KG,pulses and nuts,311.30853846153843,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-08-15,Cowpeas - Retail,KG,pulses and nuts,311.7190174825175,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-09-15,Cowpeas - Retail,KG,pulses and nuts,312.1294965034965,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-10-15,Cowpeas - Retail,KG,pulses and nuts,312.52673426573426,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-11-15,Cowpeas - Retail,KG,pulses and nuts,312.9372132867133,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2016-12-15,Cowpeas - Retail,KG,pulses and nuts,313.33445104895105,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-01-15,Cowpeas - Retail,KG,pulses and nuts,313.7449300699301,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-02-15,Cowpeas - Retail,KG,pulses and nuts,314.1554090909091,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-03-15,Cowpeas - Retail,KG,pulses and nuts,314.52616433566436,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-04-15,Cowpeas - Retail,KG,pulses and nuts,314.93664335664334,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-05-15,Cowpeas - Retail,KG,pulses and nuts,315.3338811188811,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-06-15,Cowpeas - Retail,KG,pulses and nuts,315.74436013986013,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-07-15,Cowpeas - Retail,KG,pulses and nuts,316.1415979020979,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-08-15,Cowpeas - Retail,KG,pulses and nuts,316.5520769230769,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-09-15,Cowpeas - Retail,KG,pulses and nuts,316.96255594405596,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-10-15,Cowpeas - Retail,KG,pulses and nuts,317.3597937062937,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-11-15,Cowpeas - Retail,KG,pulses and nuts,317.77027272727275,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2017-12-15,Cowpeas - Retail,KG,pulses and nuts,318.1675104895105,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-01-15,Cowpeas - Retail,KG,pulses and nuts,318.5779895104895,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-02-15,Cowpeas - Retail,KG,pulses and nuts,318.9884685314685,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-03-15,Cowpeas - Retail,KG,pulses and nuts,319.35922377622376,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-04-15,Cowpeas - Retail,KG,pulses and nuts,319.7697027972028,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-05-15,Cowpeas - Retail,KG,pulses and nuts,320.16694055944055,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-06-15,Cowpeas - Retail,KG,pulses and nuts,320.5774195804196,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-07-15,Cowpeas - Retail,KG,pulses and nuts,320.97465734265734,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-08-15,Cowpeas - Retail,KG,pulses and nuts,321.3851363636364,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-09-15,Cowpeas - Retail,KG,pulses and nuts,321.79561538461536,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-10-15,Cowpeas - Retail,KG,pulses and nuts,322.19285314685317,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-11-15,Cowpeas - Retail,KG,pulses and nuts,322.60333216783215,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2018-12-15,Cowpeas - Retail,KG,pulses and nuts,323.00056993006996,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-01-15,Cowpeas - Retail,KG,pulses and nuts,323.41104895104894,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-02-15,Cowpeas - Retail,KG,pulses and nuts,323.821527972028,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-03-15,Cowpeas - Retail,KG,pulses and nuts,324.1922832167832,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-04-15,Cowpeas - Retail,KG,pulses and nuts,324.60276223776225,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-05-15,Cowpeas - Retail,KG,pulses and nuts,325.0,MWK,Malawi,Central Region,1888.0,Waliranji,2116.0,218,15.0,5.0,5,2116_218_15_5,,2019.0,Cowpeas - Retail (KG),Cowpeas,1557878400.0,1.0,0.0
+2019-06-15,Cowpeas - Retail,KG,pulses and nuts,350.0,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,218,15.0,5.0,5,789_218_15_5,,2019.0,Cowpeas - Retail (KG),Cowpeas,1560556800.0,1.0,0.0
+2019-07-15,Cowpeas - Retail,KG,pulses and nuts,400.0,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,218,15.0,5.0,5,789_218_15_5,,2019.0,Cowpeas - Retail (KG),Cowpeas,1563148800.0,1.0,0.0
+2019-08-15,Cowpeas - Retail,KG,pulses and nuts,400.0,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-09-15,Cowpeas - Retail,KG,pulses and nuts,400.0,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-10-15,Cowpeas - Retail,KG,pulses and nuts,400.0,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-11-15,Cowpeas - Retail,KG,pulses and nuts,400.0,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2019-12-15,Cowpeas - Retail,KG,pulses and nuts,400.0,,,,,,,218,,,5,,,,Cowpeas - Retail (KG),Cowpeas,,1.0,1.0
+2014-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,414.83,MWK,Malawi,Southern Region,1890.0,Muloza,797.0,119,15.0,5.0,5,797_119_15_5,,2014.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1389744000.0,1.0,0.0
+2014-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,435.2150833333333,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,453.62741666666665,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,474.0125,MWK,Malawi,Central Region,1888.0,Lilongwe,827.0,119,15.0,5.0,5,827_119_15_5,,2014.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1397520000.0,1.0,0.0
+2014-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,460.90285294117643,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,447.3562176470588,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,434.2465705882353,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,420.69993529411767,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,407.1533,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,119,15.0,5.0,5,788_119_15_5,,2014.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1410739200.0,1.0,0.0
+2014-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,416.145,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,119,15.0,5.0,5,789_119_15_5,,2014.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1413331200.0,1.0,0.0
+2014-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,439.062131147541,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2014-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,461.24,MWK,Malawi,Northern Region,1889.0,Chitipa,774.0,119,15.0,5.0,5,774_119_15_5,,2014.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1418601600.0,1.0,0.0
+2015-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,478.12,MWK,Malawi,Northern Region,1889.0,Chitipa,774.0,119,15.0,5.0,5,774_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1421280000.0,1.0,0.0
+2015-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,512.515,MWK,Malawi,Northern Region,1889.0,Mzimba,800.0,119,15.0,5.0,5,800_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1423958400.0,1.0,0.0
+2015-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,493.9020786516854,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2015-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,473.2949157303371,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2015-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,453.3525,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,119,15.0,5.0,5,791_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1431648000.0,1.0,0.0
+2015-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,498.7367,MWK,Malawi,Central Region,1888.0,Santhe,820.0,119,15.0,5.0,5,820_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1434326400.0,1.0,0.0
+2015-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,493.34,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,119,15.0,5.0,5,814_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1436918400.0,1.0,0.0
+2015-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,542.8,MWK,Malawi,Southern Region,1890.0,Luchenza,783.0,119,15.0,5.0,5,783_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1439596800.0,1.0,0.0
+2015-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,590.54,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,119,15.0,5.0,5,789_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1442275200.0,1.0,0.0
+2015-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,MWK,Malawi,Central Region,1888.0,Lizulu,826.0,119,15.0,5.0,5,826_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1444867200.0,1.0,0.0
+2015-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,605.635,MWK,Malawi,Southern Region,1890.0,Liwonde,782.0,119,15.0,5.0,5,782_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1447545600.0,1.0,0.0
+2015-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,605.0,MWK,Malawi,Central Region,1888.0,Mponela,795.0,119,15.0,5.0,5,795_119_15_5,,2015.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1450137600.0,1.0,0.0
+2016-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,660.37,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,119,15.0,5.0,5,801_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1452816000.0,1.0,0.0
+2016-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,671.04,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,119,15.0,5.0,5,789_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1455494400.0,1.0,0.0
+2016-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,705.77,MWK,Malawi,Southern Region,1890.0,Ngabu,806.0,119,15.0,5.0,5,806_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1458000000.0,1.0,0.0
+2016-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,671.54,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,119,15.0,5.0,5,814_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1460678400.0,1.0,0.0
+2016-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,534.62,MWK,Malawi,Southern Region,1890.0,Neno,805.0,119,15.0,5.0,5,805_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1463270400.0,1.0,0.0
+2016-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,650.0,MWK,Malawi,Northern Region,1889.0,Mzimba,800.0,119,15.0,5.0,5,800_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1465948800.0,1.0,0.0
+2016-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,715.61,MWK,Malawi,Southern Region,1890.0,Nchalo,804.0,119,15.0,5.0,5,804_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1468540800.0,1.0,0.0
+2016-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,700.0,MWK,Malawi,Central Region,1888.0,Thete,822.0,119,15.0,5.0,5,822_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1471219200.0,1.0,0.0
+2016-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,664.785,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,119,15.0,5.0,5,828_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1473897600.0,1.0,0.0
+2016-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,743.93,MWK,Malawi,Southern Region,1890.0,Jali,778.0,119,15.0,5.0,5,778_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1476489600.0,1.0,0.0
+2016-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,763.2467,MWK,Malawi,Central Region,1888.0,Sharpevaley,821.0,119,15.0,5.0,5,821_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1479168000.0,1.0,0.0
+2016-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,829.0725,MWK,Malawi,Southern Region,1890.0,Jali,778.0,119,15.0,5.0,5,778_119_15_5,,2016.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1481760000.0,1.0,0.0
+2017-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,944.7925,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,119,15.0,5.0,5,779_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1484438400.0,1.0,0.0
+2017-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,820.5275,MWK,Malawi,Central Region,1888.0,Nsundwe,812.0,119,15.0,5.0,5,812_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1487116800.0,1.0,0.0
+2017-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,800.0,MWK,Malawi,Central Region,1888.0,Nkhamenya,807.0,119,15.0,5.0,5,807_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1489536000.0,1.0,0.0
+2017-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,758.8425,MWK,Malawi,Central Region,1888.0,Dowa,825.0,119,15.0,5.0,5,825_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1492214400.0,1.0,0.0
+2017-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,714.976,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,119,15.0,5.0,5,779_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1494806400.0,1.0,0.0
+2017-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,603.29,MWK,Malawi,Southern Region,1890.0,Chikwawa,769.0,119,15.0,5.0,5,769_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1497484800.0,1.0,0.0
+2017-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,543.925,MWK,Malawi,Northern Region,1889.0,Rumphi,818.0,119,15.0,5.0,5,818_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1500076800.0,1.0,0.0
+2017-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,561.0025,MWK,Malawi,Northern Region,1889.0,Mpamba,794.0,119,15.0,5.0,5,794_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1502755200.0,1.0,0.0
+2017-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,MWK,Malawi,Central Region,1888.0,Nkhamenya,807.0,119,15.0,5.0,5,807_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1505433600.0,1.0,0.0
+2017-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,597.95,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,119,15.0,5.0,5,784_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1508025600.0,1.0,0.0
+2017-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,588.476,MWK,Malawi,Northern Region,1889.0,Chilumba,770.0,119,15.0,5.0,5,770_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1510704000.0,1.0,0.0
+2017-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,584.43,MWK,Malawi,Northern Region,1889.0,Rumphi,818.0,119,15.0,5.0,5,818_119_15_5,,2017.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1513296000.0,1.0,0.0
+2018-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,670.606,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,119,15.0,5.0,5,828_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1515974400.0,1.0,0.0
+2018-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,670.3075,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,119,15.0,5.0,5,828_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1518652800.0,1.0,0.0
+2018-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,677.0666525423728,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,,1.0,1.0
+2018-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,684.55,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,119,15.0,5.0,5,791_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1523750400.0,1.0,0.0
+2018-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,674.7667,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,119,15.0,5.0,5,787_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1526342400.0,1.0,0.0
+2018-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,641.89,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,119,15.0,5.0,5,779_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1529020800.0,1.0,0.0
+2018-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,626.52,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,119,15.0,5.0,5,779_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1531612800.0,1.0,0.0
+2018-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,617.215,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,119,15.0,5.0,5,779_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1534291200.0,1.0,0.0
+2018-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,640.1575,MWK,Malawi,Central Region,1888.0,Salima,819.0,119,15.0,5.0,5,819_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1536969600.0,1.0,0.0
+2018-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,613.6125,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,119,15.0,5.0,5,814_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1539561600.0,1.0,0.0
+2018-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,613.6125,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,119,15.0,5.0,5,814_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1542240000.0,1.0,0.0
+2018-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,616.155,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,119,15.0,5.0,5,828_119_15_5,,2018.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1544832000.0,1.0,0.0
+2019-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,762.5,MWK,Malawi,Southern Region,1890.0,Phalombe,817.0,119,15.0,5.0,5,817_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1547510400.0,1.0,0.0
+2019-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,700.01,MWK,Malawi,Central Region,1888.0,Mponela,795.0,119,15.0,5.0,5,795_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1550188800.0,1.0,0.0
+2019-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,728.9325,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,119,15.0,5.0,5,763_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1552608000.0,1.0,0.0
+2019-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,650.5875,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,119,15.0,5.0,5,801_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1555286400.0,1.0,0.0
+2019-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,703.1875,MWK,Malawi,Northern Region,1889.0,Mzimba,800.0,119,15.0,5.0,5,800_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1557878400.0,1.0,0.0
+2019-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,690.15,MWK,Malawi,Southern Region,1890.0,Muloza,797.0,119,15.0,5.0,5,797_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1560556800.0,1.0,0.0
+2019-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,660.74,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,119,15.0,5.0,5,801_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1563148800.0,1.0,0.0
+2019-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,699.595,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,119,15.0,5.0,5,784_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1565827200.0,1.0,0.0
+2019-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,657.205,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,119,15.0,5.0,5,828_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1568505600.0,1.0,0.0
+2019-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,701.11,MWK,Malawi,Central Region,1888.0,Kasungu,780.0,119,15.0,5.0,5,780_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1571097600.0,1.0,0.0
+2019-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,746.8833,MWK,Malawi,Southern Region,1890.0,Chilinga,2120.0,119,15.0,5.0,5,2120_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1573776000.0,1.0,0.0
+2019-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,771.595,MWK,Malawi,Northern Region,1889.0,Chintheche,772.0,119,15.0,5.0,5,772_119_15_5,,2019.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1576368000.0,1.0,0.0
+2014-01-15,Maize (white) - Retail,1/10 KG,cereals and tubers,780.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1389744000.0,0.1,0.0
+2014-02-15,Maize (white) - Retail,1/10 KG,cereals and tubers,765.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1392422400.0,0.1,0.0
+2014-03-15,Maize (white) - Retail,1/10 KG,cereals and tubers,765.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1394841600.0,0.1,0.0
+2014-04-15,Maize (white) - Retail,1/10 KG,cereals and tubers,880.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1397520000.0,0.1,0.0
+2014-05-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1112.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1400112000.0,0.1,0.0
+2014-06-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1026.6000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1402790400.0,0.1,0.0
+2014-07-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1066.6000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1405382400.0,0.1,0.0
+2014-08-15,Maize (white) - Retail,1/10 KG,cereals and tubers,947.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1408060800.0,0.1,0.0
+2014-09-15,Maize (white) - Retail,1/10 KG,cereals and tubers,762.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1410739200.0,0.1,0.0
+2014-10-15,Maize (white) - Retail,1/10 KG,cereals and tubers,702.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1413331200.0,0.1,0.0
+2014-11-15,Maize (white) - Retail,1/10 KG,cereals and tubers,815.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1416009600.0,0.1,0.0
+2014-12-15,Maize (white) - Retail,1/10 KG,cereals and tubers,796.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2014.0,Maize (white) - Retail (1/10 KG),Maize white,1418601600.0,0.1,0.0
+2015-01-15,Maize (white) - Retail,1/10 KG,cereals and tubers,806.7,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1421280000.0,0.1,0.0
+2015-02-15,Maize (white) - Retail,1/10 KG,cereals and tubers,880.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1423958400.0,0.1,0.0
+2015-03-15,Maize (white) - Retail,1/10 KG,cereals and tubers,895.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1426377600.0,0.1,0.0
+2015-04-15,Maize (white) - Retail,1/10 KG,cereals and tubers,895.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1429056000.0,0.1,0.0
+2015-05-15,Maize (white) - Retail,1/10 KG,cereals and tubers,912.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1431648000.0,0.1,0.0
+2015-06-15,Maize (white) - Retail,1/10 KG,cereals and tubers,982.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1434326400.0,0.1,0.0
+2015-07-15,Maize (white) - Retail,1/10 KG,cereals and tubers,915.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1436918400.0,0.1,0.0
+2015-08-15,Maize (white) - Retail,1/10 KG,cereals and tubers,772.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1439596800.0,0.1,0.0
+2015-09-15,Maize (white) - Retail,1/10 KG,cereals and tubers,600.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1442275200.0,0.1,0.0
+2015-10-15,Maize (white) - Retail,1/10 KG,cereals and tubers,565.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1444867200.0,0.1,0.0
+2015-11-15,Maize (white) - Retail,1/10 KG,cereals and tubers,590.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1447545600.0,0.1,0.0
+2015-12-15,Maize (white) - Retail,1/10 KG,cereals and tubers,600.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2015.0,Maize (white) - Retail (1/10 KG),Maize white,1450137600.0,0.1,0.0
+2016-01-15,Maize (white) - Retail,1/10 KG,cereals and tubers,590.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1452816000.0,0.1,0.0
+2016-02-15,Maize (white) - Retail,1/10 KG,cereals and tubers,630.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1455494400.0,0.1,0.0
+2016-03-15,Maize (white) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1458000000.0,0.1,0.0
+2016-04-15,Maize (white) - Retail,1/10 KG,cereals and tubers,765.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1460678400.0,0.1,0.0
+2016-05-15,Maize (white) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1463270400.0,0.1,0.0
+2016-06-15,Maize (white) - Retail,1/10 KG,cereals and tubers,815.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1465948800.0,0.1,0.0
+2016-07-15,Maize (white) - Retail,1/10 KG,cereals and tubers,862.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1468540800.0,0.1,0.0
+2016-08-15,Maize (white) - Retail,1/10 KG,cereals and tubers,730.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1471219200.0,0.1,0.0
+2016-09-15,Maize (white) - Retail,1/10 KG,cereals and tubers,747.7868852459017,,,,,,,67,,,1,,,,Maize (white) - Retail (1/10 KG),Maize white,,0.1,1.0
+2016-10-15,Maize (white) - Retail,1/10 KG,cereals and tubers,765.0,,,,,,,67,,,1,,,,Maize (white) - Retail (1/10 KG),Maize white,,0.1,1.0
+2016-11-15,Maize (white) - Retail,1/10 KG,cereals and tubers,782.7868852459017,,,,,,,67,,,1,,,,Maize (white) - Retail (1/10 KG),Maize white,,0.1,1.0
+2016-12-15,Maize (white) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2016.0,Maize (white) - Retail (1/10 KG),Maize white,1481760000.0,0.1,0.0
+2017-01-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1130.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1484438400.0,0.1,0.0
+2017-02-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1050.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1487116800.0,0.1,0.0
+2017-03-15,Maize (white) - Retail,1/10 KG,cereals and tubers,950.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1489536000.0,0.1,0.0
+2017-04-15,Maize (white) - Retail,1/10 KG,cereals and tubers,930.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1492214400.0,0.1,0.0
+2017-05-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1165.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1494806400.0,0.1,0.0
+2017-06-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1200.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1497484800.0,0.1,0.0
+2017-07-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1240.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1500076800.0,0.1,0.0
+2017-08-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1240.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1502755200.0,0.1,0.0
+2017-09-15,Maize (white) - Retail,1/10 KG,cereals and tubers,1016.7,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1505433600.0,0.1,0.0
+2017-10-15,Maize (white) - Retail,1/10 KG,cereals and tubers,865.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1508025600.0,0.1,0.0
+2017-11-15,Maize (white) - Retail,1/10 KG,cereals and tubers,765.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1510704000.0,0.1,0.0
+2017-12-15,Maize (white) - Retail,1/10 KG,cereals and tubers,757.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2017.0,Maize (white) - Retail (1/10 KG),Maize white,1513296000.0,0.1,0.0
+2018-01-15,Maize (white) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1515974400.0,0.1,0.0
+2018-02-15,Maize (white) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1518652800.0,0.1,0.0
+2018-03-15,Maize (white) - Retail,1/10 KG,cereals and tubers,700.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1521072000.0,0.1,0.0
+2018-04-15,Maize (white) - Retail,1/10 KG,cereals and tubers,700.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1523750400.0,0.1,0.0
+2018-05-15,Maize (white) - Retail,1/10 KG,cereals and tubers,700.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1526342400.0,0.1,0.0
+2018-06-15,Maize (white) - Retail,1/10 KG,cereals and tubers,680.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1529020800.0,0.1,0.0
+2018-07-15,Maize (white) - Retail,1/10 KG,cereals and tubers,680.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1531612800.0,0.1,0.0
+2018-08-15,Maize (white) - Retail,1/10 KG,cereals and tubers,547.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1534291200.0,0.1,0.0
+2018-09-15,Maize (white) - Retail,1/10 KG,cereals and tubers,533.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1536969600.0,0.1,0.0
+2018-10-15,Maize (white) - Retail,1/10 KG,cereals and tubers,546.7,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1539561600.0,0.1,0.0
+2018-11-15,Maize (white) - Retail,1/10 KG,cereals and tubers,546.7,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1542240000.0,0.1,0.0
+2018-12-15,Maize (white) - Retail,1/10 KG,cereals and tubers,598.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2018.0,Maize (white) - Retail (1/10 KG),Maize white,1544832000.0,0.1,0.0
+2019-01-15,Maize (white) - Retail,1/10 KG,cereals and tubers,633.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1547510400.0,0.1,0.0
+2019-02-15,Maize (white) - Retail,1/10 KG,cereals and tubers,633.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1550188800.0,0.1,0.0
+2019-03-15,Maize (white) - Retail,1/10 KG,cereals and tubers,730.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1552608000.0,0.1,0.0
+2019-04-15,Maize (white) - Retail,1/10 KG,cereals and tubers,782.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1555286400.0,0.1,0.0
+2019-05-15,Maize (white) - Retail,1/10 KG,cereals and tubers,790.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1557878400.0,0.1,0.0
+2019-06-15,Maize (white) - Retail,1/10 KG,cereals and tubers,750.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1560556800.0,0.1,0.0
+2019-07-15,Maize (white) - Retail,1/10 KG,cereals and tubers,783.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1563148800.0,0.1,0.0
+2019-08-15,Maize (white) - Retail,1/10 KG,cereals and tubers,822.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1565827200.0,0.1,0.0
+2019-09-15,Maize (white) - Retail,1/10 KG,cereals and tubers,752.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1568505600.0,0.1,0.0
+2019-10-15,Maize (white) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1571097600.0,0.1,0.0
+2019-11-15,Maize (white) - Retail,1/10 KG,cereals and tubers,630.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1573776000.0,0.1,0.0
+2019-12-15,Maize (white) - Retail,1/10 KG,cereals and tubers,765.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,67,15.0,5.0,1,2128_67_15_5,,2019.0,Maize (white) - Retail (1/10 KG),Maize white,1576368000.0,0.1,0.0
+2014-01-15,Maize - Retail,KG,cereals and tubers,147.31,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,51,15.0,5.0,1,814_51_15_5,,2014.0,Maize - Retail (KG),Maize,1389744000.0,1.0,0.0
+2014-02-15,Maize - Retail,KG,cereals and tubers,128.33,MWK,Malawi,Central Region,1888.0,Kasungu,780.0,51,15.0,5.0,1,780_51_15_5,,2014.0,Maize - Retail (KG),Maize,1392422400.0,1.0,0.0
+2014-03-15,Maize - Retail,KG,cereals and tubers,116.235,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,51,15.0,5.0,1,814_51_15_5,,2014.0,Maize - Retail (KG),Maize,1394841600.0,1.0,0.0
+2014-04-15,Maize - Retail,KG,cereals and tubers,97.7975,MWK,Malawi,Southern Region,1890.0,Nchalo,804.0,51,15.0,5.0,1,804_51_15_5,,2014.0,Maize - Retail (KG),Maize,1397520000.0,1.0,0.0
+2014-05-15,Maize - Retail,KG,cereals and tubers,94.15,MWK,Malawi,Southern Region,1890.0,Nsanje,2193.0,51,15.0,5.0,1,2193_51_15_5,,2014.0,Maize - Retail (KG),Maize,1400112000.0,1.0,0.0
+2014-06-15,Maize - Retail,KG,cereals and tubers,74.9725,MWK,Malawi,Central Region,1888.0,Mponela,795.0,51,15.0,5.0,1,795_51_15_5,,2014.0,Maize - Retail (KG),Maize,1402790400.0,1.0,0.0
+2014-07-15,Maize - Retail,KG,cereals and tubers,76.62,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,51,15.0,5.0,1,787_51_15_5,,2014.0,Maize - Retail (KG),Maize,1405382400.0,1.0,0.0
+2014-08-15,Maize - Retail,KG,cereals and tubers,75.0,MWK,Malawi,Southern Region,1890.0,Neno,805.0,51,15.0,5.0,1,805_51_15_5,,2014.0,Maize - Retail (KG),Maize,1408060800.0,1.0,0.0
+2014-09-15,Maize - Retail,KG,cereals and tubers,75.0,MWK,Malawi,Southern Region,1890.0,Phalombe,817.0,51,15.0,5.0,1,817_51_15_5,,2014.0,Maize - Retail (KG),Maize,1410739200.0,1.0,0.0
+2014-10-15,Maize - Retail,KG,cereals and tubers,70.0,MWK,Malawi,Southern Region,1890.0,Phalombe,817.0,51,15.0,5.0,1,817_51_15_5,,2014.0,Maize - Retail (KG),Maize,1413331200.0,1.0,0.0
+2014-11-15,Maize - Retail,KG,cereals and tubers,79.31,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,51,15.0,5.0,1,801_51_15_5,,2014.0,Maize - Retail (KG),Maize,1416009600.0,1.0,0.0
+2014-12-15,Maize - Retail,KG,cereals and tubers,76.585,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,51,15.0,5.0,1,779_51_15_5,,2014.0,Maize - Retail (KG),Maize,1418601600.0,1.0,0.0
+2015-01-15,Maize - Retail,KG,cereals and tubers,90.0,MWK,Malawi,Central Region,1888.0,Bembeke turn off,765.0,51,15.0,5.0,1,765_51_15_5,,2015.0,Maize - Retail (KG),Maize,1421280000.0,1.0,0.0
+2015-02-15,Maize - Retail,KG,cereals and tubers,90.49,MWK,Malawi,Central Region,1888.0,Chimbiya,771.0,51,15.0,5.0,1,771_51_15_5,,2015.0,Maize - Retail (KG),Maize,1423958400.0,1.0,0.0
+2015-03-15,Maize - Retail,KG,cereals and tubers,95.0,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,51,15.0,5.0,1,801_51_15_5,,2015.0,Maize - Retail (KG),Maize,1426377600.0,1.0,0.0
+2015-04-15,Maize - Retail,KG,cereals and tubers,122.22,MWK,Malawi,Central Region,1888.0,Malomo,786.0,51,15.0,5.0,1,786_51_15_5,,2015.0,Maize - Retail (KG),Maize,1429056000.0,1.0,0.0
+2015-05-15,Maize - Retail,KG,cereals and tubers,111.69,MWK,Malawi,Southern Region,1890.0,Bangula,764.0,51,15.0,5.0,1,764_51_15_5,,2015.0,Maize - Retail (KG),Maize,1431648000.0,1.0,0.0
+2015-06-15,Maize - Retail,KG,cereals and tubers,111.28,MWK,Malawi,Central Region,1888.0,Santhe,820.0,51,15.0,5.0,1,820_51_15_5,,2015.0,Maize - Retail (KG),Maize,1434326400.0,1.0,0.0
+2015-07-15,Maize - Retail,KG,cereals and tubers,115.0,MWK,Malawi,Central Region,1888.0,Mtakataka,796.0,51,15.0,5.0,1,796_51_15_5,,2015.0,Maize - Retail (KG),Maize,1436918400.0,1.0,0.0
+2015-08-15,Maize - Retail,KG,cereals and tubers,121.8167,MWK,Malawi,Northern Region,1889.0,Nthalire,816.0,51,15.0,5.0,1,816_51_15_5,,2015.0,Maize - Retail (KG),Maize,1439596800.0,1.0,0.0
+2015-09-15,Maize - Retail,KG,cereals and tubers,128.1925,MWK,Malawi,Northern Region,1889.0,Chitipa,774.0,51,15.0,5.0,1,774_51_15_5,,2015.0,Maize - Retail (KG),Maize,1442275200.0,1.0,0.0
+2015-10-15,Maize - Retail,KG,cereals and tubers,140.0,MWK,Malawi,Central Region,1888.0,Bembeke turn off,765.0,51,15.0,5.0,1,765_51_15_5,,2015.0,Maize - Retail (KG),Maize,1444867200.0,1.0,0.0
+2015-11-15,Maize - Retail,KG,cereals and tubers,149.56,MWK,Malawi,Southern Region,1890.0,Thondwe,823.0,51,15.0,5.0,1,823_51_15_5,,2015.0,Maize - Retail (KG),Maize,1447545600.0,1.0,0.0
+2015-12-15,Maize - Retail,KG,cereals and tubers,150.28,MWK,Malawi,Central Region,1888.0,Mkanda,792.0,51,15.0,5.0,1,792_51_15_5,,2015.0,Maize - Retail (KG),Maize,1450137600.0,1.0,0.0
+2016-01-15,Maize - Retail,KG,cereals and tubers,200.115,MWK,Malawi,Northern Region,1889.0,Chintheche,772.0,51,15.0,5.0,1,772_51_15_5,,2016.0,Maize - Retail (KG),Maize,1452816000.0,1.0,0.0
+2016-02-15,Maize - Retail,KG,cereals and tubers,217.335,MWK,Malawi,Northern Region,1889.0,Embangweni,776.0,51,15.0,5.0,1,776_51_15_5,,2016.0,Maize - Retail (KG),Maize,1455494400.0,1.0,0.0
+2016-03-15,Maize - Retail,KG,cereals and tubers,245.75,MWK,Malawi,Central Region,1888.0,Nkhoma,809.0,51,15.0,5.0,1,809_51_15_5,,2016.0,Maize - Retail (KG),Maize,1458000000.0,1.0,0.0
+2016-04-15,Maize - Retail,KG,cereals and tubers,174.3967,MWK,Malawi,Central Region,1888.0,Mwansambo,798.0,51,15.0,5.0,1,798_51_15_5,,2016.0,Maize - Retail (KG),Maize,1460678400.0,1.0,0.0
+2016-05-15,Maize - Retail,KG,cereals and tubers,175.9133,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,51,15.0,5.0,1,788_51_15_5,,2016.0,Maize - Retail (KG),Maize,1463270400.0,1.0,0.0
+2016-06-15,Maize - Retail,KG,cereals and tubers,201.67,MWK,Malawi,Central Region,1888.0,Lizulu,826.0,51,15.0,5.0,1,826_51_15_5,,2016.0,Maize - Retail (KG),Maize,1465948800.0,1.0,0.0
+2016-07-15,Maize - Retail,KG,cereals and tubers,215.75,MWK,Malawi,Central Region,1888.0,Mponela,795.0,51,15.0,5.0,1,795_51_15_5,,2016.0,Maize - Retail (KG),Maize,1468540800.0,1.0,0.0
+2016-08-15,Maize - Retail,KG,cereals and tubers,217.844,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,51,15.0,5.0,1,779_51_15_5,,2016.0,Maize - Retail (KG),Maize,1471219200.0,1.0,0.0
+2016-09-15,Maize - Retail,KG,cereals and tubers,210.5,MWK,Malawi,Southern Region,1890.0,Neno,805.0,51,15.0,5.0,1,805_51_15_5,,2016.0,Maize - Retail (KG),Maize,1473897600.0,1.0,0.0
+2016-10-15,Maize - Retail,KG,cereals and tubers,220.0,MWK,Malawi,Central Region,1888.0,Sharpevaley,821.0,51,15.0,5.0,1,821_51_15_5,,2016.0,Maize - Retail (KG),Maize,1476489600.0,1.0,0.0
+2016-11-15,Maize - Retail,KG,cereals and tubers,237.5,MWK,Malawi,Central Region,1888.0,Sharpevaley,821.0,51,15.0,5.0,1,821_51_15_5,,2016.0,Maize - Retail (KG),Maize,1479168000.0,1.0,0.0
+2016-12-15,Maize - Retail,KG,cereals and tubers,249.1875,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,51,15.0,5.0,1,788_51_15_5,,2016.0,Maize - Retail (KG),Maize,1481760000.0,1.0,0.0
+2017-01-15,Maize - Retail,KG,cereals and tubers,233.49,MWK,Malawi,Northern Region,1889.0,Mzimba,800.0,51,15.0,5.0,1,800_51_15_5,,2017.0,Maize - Retail (KG),Maize,1484438400.0,1.0,0.0
+2017-02-15,Maize - Retail,KG,cereals and tubers,218.385,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,51,15.0,5.0,1,787_51_15_5,,2017.0,Maize - Retail (KG),Maize,1487116800.0,1.0,0.0
+2017-03-15,Maize - Retail,KG,cereals and tubers,199.348,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,51,15.0,5.0,1,788_51_15_5,,2017.0,Maize - Retail (KG),Maize,1489536000.0,1.0,0.0
+2017-04-15,Maize - Retail,KG,cereals and tubers,166.4925,MWK,Malawi,Southern Region,1890.0,Sorgin,811.0,51,15.0,5.0,1,811_51_15_5,,2017.0,Maize - Retail (KG),Maize,1492214400.0,1.0,0.0
+2017-05-15,Maize - Retail,KG,cereals and tubers,109.375,MWK,Malawi,Central Region,1888.0,Nkhamenya,807.0,51,15.0,5.0,1,807_51_15_5,,2017.0,Maize - Retail (KG),Maize,1494806400.0,1.0,0.0
+2017-06-15,Maize - Retail,KG,cereals and tubers,99.87,MWK,Malawi,Southern Region,1890.0,Nsanje,2193.0,51,15.0,5.0,1,2193_51_15_5,,2017.0,Maize - Retail (KG),Maize,1497484800.0,1.0,0.0
+2017-07-15,Maize - Retail,KG,cereals and tubers,98.5925,MWK,Malawi,Southern Region,1890.0,Sorgin,811.0,51,15.0,5.0,1,811_51_15_5,,2017.0,Maize - Retail (KG),Maize,1500076800.0,1.0,0.0
+2017-08-15,Maize - Retail,KG,cereals and tubers,98.75,MWK,Malawi,Southern Region,1890.0,Phalombe,817.0,51,15.0,5.0,1,817_51_15_5,,2017.0,Maize - Retail (KG),Maize,1502755200.0,1.0,0.0
+2017-09-15,Maize - Retail,KG,cereals and tubers,102.3425,MWK,Malawi,Northern Region,1889.0,Misuku,790.0,51,15.0,5.0,1,790_51_15_5,,2017.0,Maize - Retail (KG),Maize,1505433600.0,1.0,0.0
+2017-10-15,Maize - Retail,KG,cereals and tubers,106.2825,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,51,15.0,5.0,1,779_51_15_5,,2017.0,Maize - Retail (KG),Maize,1508025600.0,1.0,0.0
+2017-11-15,Maize - Retail,KG,cereals and tubers,100.0,MWK,Malawi,Central Region,1888.0,Mtakataka,796.0,51,15.0,5.0,1,796_51_15_5,,2017.0,Maize - Retail (KG),Maize,1510704000.0,1.0,0.0
+2017-12-15,Maize - Retail,KG,cereals and tubers,96.42,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,51,15.0,5.0,1,768_51_15_5,,2017.0,Maize - Retail (KG),Maize,1513296000.0,1.0,0.0
+2018-01-15,Maize - Retail,KG,cereals and tubers,102.478,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,51,15.0,5.0,1,779_51_15_5,,2018.0,Maize - Retail (KG),Maize,1515974400.0,1.0,0.0
+2018-02-15,Maize - Retail,KG,cereals and tubers,112.555,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,51,15.0,5.0,1,787_51_15_5,,2018.0,Maize - Retail (KG),Maize,1518652800.0,1.0,0.0
+2018-03-15,Maize - Retail,KG,cereals and tubers,114.85,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,51,15.0,5.0,1,814_51_15_5,,2018.0,Maize - Retail (KG),Maize,1521072000.0,1.0,0.0
+2018-04-15,Maize - Retail,KG,cereals and tubers,99.1775,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,51,15.0,5.0,1,828_51_15_5,,2018.0,Maize - Retail (KG),Maize,1523750400.0,1.0,0.0
+2018-05-15,Maize - Retail,KG,cereals and tubers,98.105,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,51,15.0,5.0,1,768_51_15_5,,2018.0,Maize - Retail (KG),Maize,1526342400.0,1.0,0.0
+2018-06-15,Maize - Retail,KG,cereals and tubers,109.1675,MWK,Malawi,Southern Region,1890.0,Nsanje,2193.0,51,15.0,5.0,1,2193_51_15_5,,2018.0,Maize - Retail (KG),Maize,1529020800.0,1.0,0.0
+2018-07-15,Maize - Retail,KG,cereals and tubers,120.3775,MWK,Malawi,Central Region,1888.0,Salima,819.0,51,15.0,5.0,1,819_51_15_5,,2018.0,Maize - Retail (KG),Maize,1531612800.0,1.0,0.0
+2018-08-15,Maize - Retail,KG,cereals and tubers,133.9875,MWK,Malawi,Central Region,1888.0,Salima,819.0,51,15.0,5.0,1,819_51_15_5,,2018.0,Maize - Retail (KG),Maize,1534291200.0,1.0,0.0
+2018-09-15,Maize - Retail,KG,cereals and tubers,136.0367,MWK,Malawi,Northern Region,1889.0,Nkhata Bay,808.0,51,15.0,5.0,1,808_51_15_5,,2018.0,Maize - Retail (KG),Maize,1536969600.0,1.0,0.0
+2018-10-15,Maize - Retail,KG,cereals and tubers,123.615,MWK,Malawi,Northern Region,1889.0,Embangweni,776.0,51,15.0,5.0,1,776_51_15_5,,2018.0,Maize - Retail (KG),Maize,1539561600.0,1.0,0.0
+2018-11-15,Maize - Retail,KG,cereals and tubers,135.9,MWK,Malawi,Northern Region,1889.0,Nkhata Bay,808.0,51,15.0,5.0,1,808_51_15_5,,2018.0,Maize - Retail (KG),Maize,1542240000.0,1.0,0.0
+2018-12-15,Maize - Retail,KG,cereals and tubers,153.5,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,51,15.0,5.0,1,784_51_15_5,,2018.0,Maize - Retail (KG),Maize,1544832000.0,1.0,0.0
+2019-01-15,Maize - Retail,KG,cereals and tubers,163.6075,MWK,Malawi,Northern Region,1889.0,Embangweni,776.0,51,15.0,5.0,1,776_51_15_5,,2019.0,Maize - Retail (KG),Maize,1547510400.0,1.0,0.0
+2019-02-15,Maize - Retail,KG,cereals and tubers,173.36,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,51,15.0,5.0,1,779_51_15_5,,2019.0,Maize - Retail (KG),Maize,1550188800.0,1.0,0.0
+2019-03-15,Maize - Retail,KG,cereals and tubers,185.0,MWK,Malawi,Central Region,1888.0,Salima,819.0,51,15.0,5.0,1,819_51_15_5,,2019.0,Maize - Retail (KG),Maize,1552608000.0,1.0,0.0
+2019-04-15,Maize - Retail,KG,cereals and tubers,153.75,MWK,Malawi,Central Region,1888.0,Dzaleka,2421.0,51,15.0,5.0,1,2421_51_15_5,,2019.0,Maize - Retail (KG),Maize,1555286400.0,1.0,0.0
+2019-05-15,Maize - Retail,KG,cereals and tubers,137.5,MWK,Malawi,Central Region,1888.0,Nsikawanjala,2114.0,51,15.0,5.0,1,2114_51_15_5,,2019.0,Maize - Retail (KG),Maize,1557878400.0,1.0,0.0
+2019-06-15,Maize - Retail,KG,cereals and tubers,146.6667,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,51,15.0,5.0,1,789_51_15_5,,2019.0,Maize - Retail (KG),Maize,1560556800.0,1.0,0.0
+2019-07-15,Maize - Retail,KG,cereals and tubers,180.0,MWK,Malawi,Central Region,1888.0,Mchinji,789.0,51,15.0,5.0,1,789_51_15_5,,2019.0,Maize - Retail (KG),Maize,1563148800.0,1.0,0.0
+2019-08-15,Maize - Retail,KG,cereals and tubers,205.175,MWK,Malawi,Central Region,1888.0,Salima,819.0,51,15.0,5.0,1,819_51_15_5,,2019.0,Maize - Retail (KG),Maize,1565827200.0,1.0,0.0
+2019-09-15,Maize - Retail,KG,cereals and tubers,220.1275,MWK,Malawi,Central Region,1888.0,Salima,819.0,51,15.0,5.0,1,819_51_15_5,,2019.0,Maize - Retail (KG),Maize,1568505600.0,1.0,0.0
+2019-10-15,Maize - Retail,KG,cereals and tubers,224.8125,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,51,15.0,5.0,1,779_51_15_5,,2019.0,Maize - Retail (KG),Maize,1571097600.0,1.0,0.0
+2019-11-15,Maize - Retail,KG,cereals and tubers,252.8875,MWK,Malawi,Central Region,1888.0,Nanjiri,803.0,51,15.0,5.0,1,803_51_15_5,,2019.0,Maize - Retail (KG),Maize,1573776000.0,1.0,0.0
+2019-12-15,Maize - Retail,KG,cereals and tubers,280.0,MWK,Malawi,Central Region,1888.0,Salima,819.0,51,15.0,5.0,1,819_51_15_5,,2019.0,Maize - Retail (KG),Maize,1576368000.0,1.0,0.0
+2014-01-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-02-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-03-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-04-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-05-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-06-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-07-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-08-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-09-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-10-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-11-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-12-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-01-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-02-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-03-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-04-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-05-15,Pigeon peas - Retail,KG,pulses and nuts,301.48,MWK,Malawi,Central Region,1888.0,Salima,819.0,155,15.0,5.0,5,819_155_15_5,,2015.0,Pigeon peas - Retail (KG),Pigeon peas,1431648000.0,1.0,0.0
+2015-06-15,Pigeon peas - Retail,KG,pulses and nuts,327.625,MWK,Malawi,Southern Region,1890.0,Ngabu,806.0,155,15.0,5.0,5,806_155_15_5,,2015.0,Pigeon peas - Retail (KG),Pigeon peas,1434326400.0,1.0,0.0
+2015-07-15,Pigeon peas - Retail,KG,pulses and nuts,327.04545454545456,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-08-15,Pigeon peas - Retail,KG,pulses and nuts,326.4465909090909,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-09-15,Pigeon peas - Retail,KG,pulses and nuts,325.8477272727273,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-10-15,Pigeon peas - Retail,KG,pulses and nuts,325.2681818181818,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-11-15,Pigeon peas - Retail,KG,pulses and nuts,324.6693181818182,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2015-12-15,Pigeon peas - Retail,KG,pulses and nuts,324.0897727272727,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-01-15,Pigeon peas - Retail,KG,pulses and nuts,323.4909090909091,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-02-15,Pigeon peas - Retail,KG,pulses and nuts,322.89204545454544,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-03-15,Pigeon peas - Retail,KG,pulses and nuts,322.33181818181816,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-04-15,Pigeon peas - Retail,KG,pulses and nuts,321.73295454545456,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-05-15,Pigeon peas - Retail,KG,pulses and nuts,321.15340909090907,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-06-15,Pigeon peas - Retail,KG,pulses and nuts,320.55454545454546,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-07-15,Pigeon peas - Retail,KG,pulses and nuts,319.975,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-08-15,Pigeon peas - Retail,KG,pulses and nuts,319.37613636363636,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-09-15,Pigeon peas - Retail,KG,pulses and nuts,318.7772727272727,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-10-15,Pigeon peas - Retail,KG,pulses and nuts,318.19772727272726,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-11-15,Pigeon peas - Retail,KG,pulses and nuts,317.59886363636366,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2016-12-15,Pigeon peas - Retail,KG,pulses and nuts,317.01931818181816,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-01-15,Pigeon peas - Retail,KG,pulses and nuts,316.42045454545456,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-02-15,Pigeon peas - Retail,KG,pulses and nuts,315.8215909090909,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-03-15,Pigeon peas - Retail,KG,pulses and nuts,315.28068181818185,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-04-15,Pigeon peas - Retail,KG,pulses and nuts,314.6818181818182,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-05-15,Pigeon peas - Retail,KG,pulses and nuts,314.10227272727275,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-06-15,Pigeon peas - Retail,KG,pulses and nuts,313.5034090909091,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-07-15,Pigeon peas - Retail,KG,pulses and nuts,312.92386363636365,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-08-15,Pigeon peas - Retail,KG,pulses and nuts,312.325,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-09-15,Pigeon peas - Retail,KG,pulses and nuts,311.7261363636364,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-10-15,Pigeon peas - Retail,KG,pulses and nuts,311.1465909090909,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-11-15,Pigeon peas - Retail,KG,pulses and nuts,310.5477272727273,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2017-12-15,Pigeon peas - Retail,KG,pulses and nuts,309.96818181818185,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-01-15,Pigeon peas - Retail,KG,pulses and nuts,309.3693181818182,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-02-15,Pigeon peas - Retail,KG,pulses and nuts,308.7704545454545,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-03-15,Pigeon peas - Retail,KG,pulses and nuts,308.2295454545455,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-04-15,Pigeon peas - Retail,KG,pulses and nuts,307.6306818181818,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-05-15,Pigeon peas - Retail,KG,pulses and nuts,307.0511363636364,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-06-15,Pigeon peas - Retail,KG,pulses and nuts,306.4522727272727,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-07-15,Pigeon peas - Retail,KG,pulses and nuts,305.8727272727273,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-08-15,Pigeon peas - Retail,KG,pulses and nuts,305.2738636363636,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-09-15,Pigeon peas - Retail,KG,pulses and nuts,304.675,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-10-15,Pigeon peas - Retail,KG,pulses and nuts,304.0954545454546,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-11-15,Pigeon peas - Retail,KG,pulses and nuts,303.4965909090909,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2018-12-15,Pigeon peas - Retail,KG,pulses and nuts,302.9170454545455,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-01-15,Pigeon peas - Retail,KG,pulses and nuts,302.3181818181818,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-02-15,Pigeon peas - Retail,KG,pulses and nuts,301.7193181818182,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-03-15,Pigeon peas - Retail,KG,pulses and nuts,301.1784090909091,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-04-15,Pigeon peas - Retail,KG,pulses and nuts,300.57954545454544,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-05-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,MWK,Malawi,Central Region,1888.0,Chimbiya,771.0,155,15.0,5.0,5,771_155_15_5,,2019.0,Pigeon peas - Retail (KG),Pigeon peas,1557878400.0,1.0,0.0
+2019-06-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,MWK,Malawi,Central Region,1888.0,Kasungu,780.0,155,15.0,5.0,5,780_155_15_5,,2019.0,Pigeon peas - Retail (KG),Pigeon peas,1560556800.0,1.0,0.0
+2019-07-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,MWK,Malawi,Southern Region,1890.0,Bangula,764.0,155,15.0,5.0,5,764_155_15_5,,2019.0,Pigeon peas - Retail (KG),Pigeon peas,1563148800.0,1.0,0.0
+2019-08-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-09-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-10-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-11-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2019-12-15,Pigeon peas - Retail,KG,pulses and nuts,300.0,,,,,,,155,,,5,,,,Pigeon peas - Retail (KG),Pigeon peas,,1.0,1.0
+2014-01-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,145.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1389744000.0,0.01,0.0
+2014-02-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1392422400.0,0.01,0.0
+2014-03-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,122.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1394841600.0,0.01,0.0
+2014-04-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,137.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1397520000.0,0.01,0.0
+2014-05-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1400112000.0,0.01,0.0
+2014-06-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1402790400.0,0.01,0.0
+2014-07-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1405382400.0,0.01,0.0
+2014-08-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1408060800.0,0.01,0.0
+2014-09-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1410739200.0,0.01,0.0
+2014-10-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1413331200.0,0.01,0.0
+2014-11-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1416009600.0,0.01,0.0
+2014-12-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2014.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1418601600.0,0.01,0.0
+2015-01-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1421280000.0,0.01,0.0
+2015-02-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,145.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1423958400.0,0.01,0.0
+2015-03-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,135.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1426377600.0,0.01,0.0
+2015-04-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1429056000.0,0.01,0.0
+2015-05-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1431648000.0,0.01,0.0
+2015-06-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1434326400.0,0.01,0.0
+2015-07-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1436918400.0,0.01,0.0
+2015-08-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1439596800.0,0.01,0.0
+2015-09-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1442275200.0,0.01,0.0
+2015-10-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1444867200.0,0.01,0.0
+2015-11-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1447545600.0,0.01,0.0
+2015-12-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2015.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1450137600.0,0.01,0.0
+2016-01-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1452816000.0,0.01,0.0
+2016-02-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1455494400.0,0.01,0.0
+2016-03-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1458000000.0,0.01,0.0
+2016-04-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1460678400.0,0.01,0.0
+2016-05-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1463270400.0,0.01,0.0
+2016-06-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1465948800.0,0.01,0.0
+2016-07-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1468540800.0,0.01,0.0
+2016-08-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1471219200.0,0.01,0.0
+2016-09-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,141.2704918032787,,,,,,,64,,,1,,,,Rice (imported) - Retail (1/100 KG),Rice imp.,,0.01,1.0
+2016-10-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,142.5,,,,,,,64,,,1,,,,Rice (imported) - Retail (1/100 KG),Rice imp.,,0.01,1.0
+2016-11-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,143.7704918032787,,,,,,,64,,,1,,,,Rice (imported) - Retail (1/100 KG),Rice imp.,,0.01,1.0
+2016-12-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,145.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2016.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1481760000.0,0.01,0.0
+2017-01-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1484438400.0,0.01,0.0
+2017-02-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,145.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1487116800.0,0.01,0.0
+2017-03-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1489536000.0,0.01,0.0
+2017-04-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1492214400.0,0.01,0.0
+2017-05-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1494806400.0,0.01,0.0
+2017-06-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,147.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1497484800.0,0.01,0.0
+2017-07-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,155.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1500076800.0,0.01,0.0
+2017-08-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,155.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1502755200.0,0.01,0.0
+2017-09-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,152.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1505433600.0,0.01,0.0
+2017-10-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1508025600.0,0.01,0.0
+2017-11-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1510704000.0,0.01,0.0
+2017-12-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2017.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1513296000.0,0.01,0.0
+2018-01-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1515974400.0,0.01,0.0
+2018-02-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1518652800.0,0.01,0.0
+2018-03-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1521072000.0,0.01,0.0
+2018-04-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1523750400.0,0.01,0.0
+2018-05-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,152.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1526342400.0,0.01,0.0
+2018-06-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,160.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1529020800.0,0.01,0.0
+2018-07-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,160.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1531612800.0,0.01,0.0
+2018-08-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1534291200.0,0.01,0.0
+2018-09-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1536969600.0,0.01,0.0
+2018-10-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,132.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1539561600.0,0.01,0.0
+2018-11-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1542240000.0,0.01,0.0
+2018-12-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,142.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2018.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1544832000.0,0.01,0.0
+2019-01-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,142.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1547510400.0,0.01,0.0
+2019-02-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1550188800.0,0.01,0.0
+2019-03-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1552608000.0,0.01,0.0
+2019-04-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,160.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1555286400.0,0.01,0.0
+2019-05-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,160.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1557878400.0,0.01,0.0
+2019-06-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,155.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1560556800.0,0.01,0.0
+2019-07-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,132.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1563148800.0,0.01,0.0
+2019-08-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,140.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1565827200.0,0.01,0.0
+2019-09-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,142.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1568505600.0,0.01,0.0
+2019-10-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1571097600.0,0.01,0.0
+2019-11-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1573776000.0,0.01,0.0
+2019-12-15,Rice (imported) - Retail,1/100 KG,cereals and tubers,150.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,64,15.0,5.0,1,2128_64_15_5,,2019.0,Rice (imported) - Retail (1/100 KG),Rice imp.,1576368000.0,0.01,0.0
+2014-01-15,Rice - Retail,KG,cereals and tubers,400.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2014.0,Rice - Retail (KG),Rice,1389744000.0,1.0,0.0
+2014-02-15,Rice - Retail,KG,cereals and tubers,441.01457627118646,,,,,,,52,,,1,,,,Rice - Retail (KG),Rice,,1.0,1.0
+2014-03-15,Rice - Retail,KG,cereals and tubers,478.06,MWK,Malawi,Central Region,1888.0,Lilongwe,827.0,52,15.0,5.0,1,827_52_15_5,,2014.0,Rice - Retail (KG),Rice,1394841600.0,1.0,0.0
+2014-04-15,Rice - Retail,KG,cereals and tubers,421.2667,MWK,Malawi,Central Region,1888.0,Mtakataka,796.0,52,15.0,5.0,1,796_52_15_5,,2014.0,Rice - Retail (KG),Rice,1397520000.0,1.0,0.0
+2014-05-15,Rice - Retail,KG,cereals and tubers,465.54,MWK,Malawi,Central Region,1888.0,Lilongwe,827.0,52,15.0,5.0,1,827_52_15_5,,2014.0,Rice - Retail (KG),Rice,1400112000.0,1.0,0.0
+2014-06-15,Rice - Retail,KG,cereals and tubers,327.62,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,52,15.0,5.0,1,801_52_15_5,,2014.0,Rice - Retail (KG),Rice,1402790400.0,1.0,0.0
+2014-07-15,Rice - Retail,KG,cereals and tubers,346.17,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,52,15.0,5.0,1,801_52_15_5,,2014.0,Rice - Retail (KG),Rice,1405382400.0,1.0,0.0
+2014-08-15,Rice - Retail,KG,cereals and tubers,347.77,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,52,15.0,5.0,1,801_52_15_5,,2014.0,Rice - Retail (KG),Rice,1408060800.0,1.0,0.0
+2014-09-15,Rice - Retail,KG,cereals and tubers,390.0267,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,52,15.0,5.0,1,779_52_15_5,,2014.0,Rice - Retail (KG),Rice,1410739200.0,1.0,0.0
+2014-10-15,Rice - Retail,KG,cereals and tubers,385.47,MWK,Malawi,Central Region,1888.0,Chimbiya,771.0,52,15.0,5.0,1,771_52_15_5,,2014.0,Rice - Retail (KG),Rice,1413331200.0,1.0,0.0
+2014-11-15,Rice - Retail,KG,cereals and tubers,409.03,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,52,15.0,5.0,1,801_52_15_5,,2014.0,Rice - Retail (KG),Rice,1416009600.0,1.0,0.0
+2014-12-15,Rice - Retail,KG,cereals and tubers,400.0,MWK,Malawi,Central Region,1888.0,Chimbiya,771.0,52,15.0,5.0,1,771_52_15_5,,2014.0,Rice - Retail (KG),Rice,1418601600.0,1.0,0.0
+2015-01-15,Rice - Retail,KG,cereals and tubers,409.88,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,52,15.0,5.0,1,763_52_15_5,,2015.0,Rice - Retail (KG),Rice,1421280000.0,1.0,0.0
+2015-02-15,Rice - Retail,KG,cereals and tubers,450.0,MWK,Malawi,Central Region,1888.0,Dwangwa,775.0,52,15.0,5.0,1,775_52_15_5,,2015.0,Rice - Retail (KG),Rice,1423958400.0,1.0,0.0
+2015-03-15,Rice - Retail,KG,cereals and tubers,607.55,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,52,15.0,5.0,1,801_52_15_5,,2015.0,Rice - Retail (KG),Rice,1426377600.0,1.0,0.0
+2015-04-15,Rice - Retail,KG,cereals and tubers,450.0,MWK,Malawi,Central Region,1888.0,Lilongwe,827.0,52,15.0,5.0,1,827_52_15_5,,2015.0,Rice - Retail (KG),Rice,1429056000.0,1.0,0.0
+2015-05-15,Rice - Retail,KG,cereals and tubers,410.0,MWK,Malawi,Central Region,1888.0,Mwansambo,798.0,52,15.0,5.0,1,798_52_15_5,,2015.0,Rice - Retail (KG),Rice,1431648000.0,1.0,0.0
+2015-06-15,Rice - Retail,KG,cereals and tubers,400.0,MWK,Malawi,Central Region,1888.0,Chimbiya,771.0,52,15.0,5.0,1,771_52_15_5,,2015.0,Rice - Retail (KG),Rice,1434326400.0,1.0,0.0
+2015-07-15,Rice - Retail,KG,cereals and tubers,400.0,MWK,Malawi,Central Region,1888.0,Malomo,786.0,52,15.0,5.0,1,786_52_15_5,,2015.0,Rice - Retail (KG),Rice,1436918400.0,1.0,0.0
+2015-08-15,Rice - Retail,KG,cereals and tubers,407.5,MWK,Malawi,Central Region,1888.0,Thete,822.0,52,15.0,5.0,1,822_52_15_5,,2015.0,Rice - Retail (KG),Rice,1439596800.0,1.0,0.0
+2015-09-15,Rice - Retail,KG,cereals and tubers,435.81,MWK,Malawi,Northern Region,1889.0,Hewe,777.0,52,15.0,5.0,1,777_52_15_5,,2015.0,Rice - Retail (KG),Rice,1442275200.0,1.0,0.0
+2015-10-15,Rice - Retail,KG,cereals and tubers,371.5875,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,52,15.0,5.0,1,787_52_15_5,,2015.0,Rice - Retail (KG),Rice,1444867200.0,1.0,0.0
+2015-11-15,Rice - Retail,KG,cereals and tubers,344.2775,MWK,Malawi,Southern Region,1890.0,Neno,805.0,52,15.0,5.0,1,805_52_15_5,,2015.0,Rice - Retail (KG),Rice,1447545600.0,1.0,0.0
+2015-12-15,Rice - Retail,KG,cereals and tubers,500.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2015.0,Rice - Retail (KG),Rice,1450137600.0,1.0,0.0
+2016-01-15,Rice - Retail,KG,cereals and tubers,533.8367,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,52,15.0,5.0,1,791_52_15_5,,2016.0,Rice - Retail (KG),Rice,1452816000.0,1.0,0.0
+2016-02-15,Rice - Retail,KG,cereals and tubers,575.0,MWK,Malawi,Central Region,1888.0,Kasungu,780.0,52,15.0,5.0,1,780_52_15_5,,2016.0,Rice - Retail (KG),Rice,1455494400.0,1.0,0.0
+2016-03-15,Rice - Retail,KG,cereals and tubers,650.0,MWK,Malawi,Central Region,1888.0,Kasiya,829.0,52,15.0,5.0,1,829_52_15_5,,2016.0,Rice - Retail (KG),Rice,1458000000.0,1.0,0.0
+2016-04-15,Rice - Retail,KG,cereals and tubers,694.7,MWK,Malawi,Central Region,1888.0,Nsundwe,812.0,52,15.0,5.0,1,812_52_15_5,,2016.0,Rice - Retail (KG),Rice,1460678400.0,1.0,0.0
+2016-05-15,Rice - Retail,KG,cereals and tubers,656.97,MWK,Malawi,Southern Region,1890.0,Chiradzulu,773.0,52,15.0,5.0,1,773_52_15_5,,2016.0,Rice - Retail (KG),Rice,1463270400.0,1.0,0.0
+2016-06-15,Rice - Retail,KG,cereals and tubers,653.5425,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,52,15.0,5.0,1,828_52_15_5,,2016.0,Rice - Retail (KG),Rice,1465948800.0,1.0,0.0
+2016-07-15,Rice - Retail,KG,cereals and tubers,680.7675,MWK,Malawi,Northern Region,1889.0,Chintheche,772.0,52,15.0,5.0,1,772_52_15_5,,2016.0,Rice - Retail (KG),Rice,1468540800.0,1.0,0.0
+2016-08-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2016.0,Rice - Retail (KG),Rice,1471219200.0,1.0,0.0
+2016-09-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2016.0,Rice - Retail (KG),Rice,1473897600.0,1.0,0.0
+2016-10-15,Rice - Retail,KG,cereals and tubers,701.1525,MWK,Malawi,Northern Region,1889.0,Mzimba,800.0,52,15.0,5.0,1,800_52_15_5,,2016.0,Rice - Retail (KG),Rice,1476489600.0,1.0,0.0
+2016-11-15,Rice - Retail,KG,cereals and tubers,750.0,MWK,Malawi,Central Region,1888.0,Bembeke turn off,765.0,52,15.0,5.0,1,765_52_15_5,,2016.0,Rice - Retail (KG),Rice,1479168000.0,1.0,0.0
+2016-12-15,Rice - Retail,KG,cereals and tubers,750.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2016.0,Rice - Retail (KG),Rice,1481760000.0,1.0,0.0
+2017-01-15,Rice - Retail,KG,cereals and tubers,754.3625,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,52,15.0,5.0,1,779_52_15_5,,2017.0,Rice - Retail (KG),Rice,1484438400.0,1.0,0.0
+2017-02-15,Rice - Retail,KG,cereals and tubers,757.925,MWK,Malawi,Southern Region,1890.0,Mangochi,787.0,52,15.0,5.0,1,787_52_15_5,,2017.0,Rice - Retail (KG),Rice,1487116800.0,1.0,0.0
+2017-03-15,Rice - Retail,KG,cereals and tubers,776.51,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,52,15.0,5.0,1,791_52_15_5,,2017.0,Rice - Retail (KG),Rice,1489536000.0,1.0,0.0
+2017-04-15,Rice - Retail,KG,cereals and tubers,737.375,MWK,Malawi,Northern Region,1889.0,Mzuzu,801.0,52,15.0,5.0,1,801_52_15_5,,2017.0,Rice - Retail (KG),Rice,1492214400.0,1.0,0.0
+2017-05-15,Rice - Retail,KG,cereals and tubers,679.65,MWK,Malawi,Northern Region,1889.0,Rumphi,818.0,52,15.0,5.0,1,818_52_15_5,,2017.0,Rice - Retail (KG),Rice,1494806400.0,1.0,0.0
+2017-06-15,Rice - Retail,KG,cereals and tubers,600.0325,MWK,Malawi,Central Region,1888.0,Dwangwa,775.0,52,15.0,5.0,1,775_52_15_5,,2017.0,Rice - Retail (KG),Rice,1497484800.0,1.0,0.0
+2017-07-15,Rice - Retail,KG,cereals and tubers,600.0,MWK,Malawi,Central Region,1888.0,Dwangwa,775.0,52,15.0,5.0,1,775_52_15_5,,2017.0,Rice - Retail (KG),Rice,1500076800.0,1.0,0.0
+2017-08-15,Rice - Retail,KG,cereals and tubers,600.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2017.0,Rice - Retail (KG),Rice,1502755200.0,1.0,0.0
+2017-09-15,Rice - Retail,KG,cereals and tubers,605.8825,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,52,15.0,5.0,1,788_52_15_5,,2017.0,Rice - Retail (KG),Rice,1505433600.0,1.0,0.0
+2017-10-15,Rice - Retail,KG,cereals and tubers,605.63,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,52,15.0,5.0,1,788_52_15_5,,2017.0,Rice - Retail (KG),Rice,1508025600.0,1.0,0.0
+2017-11-15,Rice - Retail,KG,cereals and tubers,600.0,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,52,15.0,5.0,1,814_52_15_5,,2017.0,Rice - Retail (KG),Rice,1510704000.0,1.0,0.0
+2017-12-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Dwangwa,775.0,52,15.0,5.0,1,775_52_15_5,,2017.0,Rice - Retail (KG),Rice,1513296000.0,1.0,0.0
+2018-01-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Malomo,786.0,52,15.0,5.0,1,786_52_15_5,,2018.0,Rice - Retail (KG),Rice,1515974400.0,1.0,0.0
+2018-02-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,52,15.0,5.0,1,814_52_15_5,,2018.0,Rice - Retail (KG),Rice,1518652800.0,1.0,0.0
+2018-03-15,Rice - Retail,KG,cereals and tubers,687.5,MWK,Malawi,Southern Region,1890.0,Phalombe,817.0,52,15.0,5.0,1,817_52_15_5,,2018.0,Rice - Retail (KG),Rice,1521072000.0,1.0,0.0
+2018-04-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,52,15.0,5.0,1,814_52_15_5,,2018.0,Rice - Retail (KG),Rice,1523750400.0,1.0,0.0
+2018-05-15,Rice - Retail,KG,cereals and tubers,723.1125,MWK,Malawi,Northern Region,1889.0,Jenda,828.0,52,15.0,5.0,1,828_52_15_5,,2018.0,Rice - Retail (KG),Rice,1526342400.0,1.0,0.0
+2018-06-15,Rice - Retail,KG,cereals and tubers,731.7425,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,52,15.0,5.0,1,791_52_15_5,,2018.0,Rice - Retail (KG),Rice,1529020800.0,1.0,0.0
+2018-07-15,Rice - Retail,KG,cereals and tubers,684.7425,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,52,15.0,5.0,1,791_52_15_5,,2018.0,Rice - Retail (KG),Rice,1531612800.0,1.0,0.0
+2018-08-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,52,15.0,5.0,1,763_52_15_5,,2018.0,Rice - Retail (KG),Rice,1534291200.0,1.0,0.0
+2018-09-15,Rice - Retail,KG,cereals and tubers,650.325,MWK,Malawi,Southern Region,1890.0,Mayaka,788.0,52,15.0,5.0,1,788_52_15_5,,2018.0,Rice - Retail (KG),Rice,1536969600.0,1.0,0.0
+2018-10-15,Rice - Retail,KG,cereals and tubers,715.16,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,52,15.0,5.0,1,791_52_15_5,,2018.0,Rice - Retail (KG),Rice,1539561600.0,1.0,0.0
+2018-11-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Ntcheu,814.0,52,15.0,5.0,1,814_52_15_5,,2018.0,Rice - Retail (KG),Rice,1542240000.0,1.0,0.0
+2018-12-15,Rice - Retail,KG,cereals and tubers,750.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2018.0,Rice - Retail (KG),Rice,1544832000.0,1.0,0.0
+2019-01-15,Rice - Retail,KG,cereals and tubers,726.11,MWK,Malawi,Northern Region,1889.0,Hewe,777.0,52,15.0,5.0,1,777_52_15_5,,2019.0,Rice - Retail (KG),Rice,1547510400.0,1.0,0.0
+2019-02-15,Rice - Retail,KG,cereals and tubers,755.68,MWK,Malawi,Northern Region,1889.0,Karonga,779.0,52,15.0,5.0,1,779_52_15_5,,2019.0,Rice - Retail (KG),Rice,1550188800.0,1.0,0.0
+2019-03-15,Rice - Retail,KG,cereals and tubers,728.9325,MWK,Malawi,Southern Region,1890.0,Balaka,763.0,52,15.0,5.0,1,763_52_15_5,,2019.0,Rice - Retail (KG),Rice,1552608000.0,1.0,0.0
+2019-04-15,Rice - Retail,KG,cereals and tubers,700.0,MWK,Malawi,Central Region,1888.0,Mwansambo,798.0,52,15.0,5.0,1,798_52_15_5,,2019.0,Rice - Retail (KG),Rice,1555286400.0,1.0,0.0
+2019-05-15,Rice - Retail,KG,cereals and tubers,712.5,MWK,Malawi,Central Region,1888.0,Nkhamenya,807.0,52,15.0,5.0,1,807_52_15_5,,2019.0,Rice - Retail (KG),Rice,1557878400.0,1.0,0.0
+2019-06-15,Rice - Retail,KG,cereals and tubers,723.6575,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,52,15.0,5.0,1,784_52_15_5,,2019.0,Rice - Retail (KG),Rice,1560556800.0,1.0,0.0
+2019-07-15,Rice - Retail,KG,cereals and tubers,600.0,MWK,Malawi,Central Region,1888.0,Dwangwa,775.0,52,15.0,5.0,1,775_52_15_5,,2019.0,Rice - Retail (KG),Rice,1563148800.0,1.0,0.0
+2019-08-15,Rice - Retail,KG,cereals and tubers,698.485,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,52,15.0,5.0,1,784_52_15_5,,2019.0,Rice - Retail (KG),Rice,1565827200.0,1.0,0.0
+2019-09-15,Rice - Retail,KG,cereals and tubers,743.8925,MWK,Malawi,Southern Region,1890.0,Lunzu,784.0,52,15.0,5.0,1,784_52_15_5,,2019.0,Rice - Retail (KG),Rice,1568505600.0,1.0,0.0
+2019-10-15,Rice - Retail,KG,cereals and tubers,731.5425,MWK,Malawi,Central Region,1888.0,Mitundu,791.0,52,15.0,5.0,1,791_52_15_5,,2019.0,Rice - Retail (KG),Rice,1571097600.0,1.0,0.0
+2019-11-15,Rice - Retail,KG,cereals and tubers,750.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2019.0,Rice - Retail (KG),Rice,1573776000.0,1.0,0.0
+2019-12-15,Rice - Retail,KG,cereals and tubers,750.0,MWK,Malawi,Central Region,1888.0,Chatoloma,768.0,52,15.0,5.0,1,768_52_15_5,,2019.0,Rice - Retail (KG),Rice,1576368000.0,1.0,0.0
+2014-01-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1389744000.0,0.1,0.0
+2014-02-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,782.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1392422400.0,0.1,0.0
+2014-03-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,765.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1394841600.0,0.1,0.0
+2014-04-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,747.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1397520000.0,0.1,0.0
+2014-05-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1029.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1400112000.0,0.1,0.0
+2014-06-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1053.3,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1402790400.0,0.1,0.0
+2014-07-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1033.3,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1405382400.0,0.1,0.0
+2014-08-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1030.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1408060800.0,0.1,0.0
+2014-09-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1030.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1410739200.0,0.1,0.0
+2014-10-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1413331200.0,0.1,0.0
+2014-11-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1416009600.0,0.1,0.0
+2014-12-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2014.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1418601600.0,0.1,0.0
+2015-01-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1421280000.0,0.1,0.0
+2015-02-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,995.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1423958400.0,0.1,0.0
+2015-03-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,965.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1426377600.0,0.1,0.0
+2015-04-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,965.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1429056000.0,0.1,0.0
+2015-05-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,930.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1431648000.0,0.1,0.0
+2015-06-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,865.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1434326400.0,0.1,0.0
+2015-07-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,880.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1436918400.0,0.1,0.0
+2015-08-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1439596800.0,0.1,0.0
+2015-09-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1442275200.0,0.1,0.0
+2015-10-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1444867200.0,0.1,0.0
+2015-11-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1447545600.0,0.1,0.0
+2015-12-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2015.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1450137600.0,0.1,0.0
+2016-01-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1452816000.0,0.1,0.0
+2016-02-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1455494400.0,0.1,0.0
+2016-03-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,645.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1458000000.0,0.1,0.0
+2016-04-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1460678400.0,0.1,0.0
+2016-05-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1463270400.0,0.1,0.0
+2016-06-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1465948800.0,0.1,0.0
+2016-07-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1468540800.0,0.1,0.0
+2016-08-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1471219200.0,0.1,0.0
+2016-09-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,763.3163934426229,,,,,,,282,,,1,,,,Sorghum (red) - Retail (1/10 KG),Sorghum red,,0.1,1.0
+2016-10-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,863.3000000000001,,,,,,,282,,,1,,,,Sorghum (red) - Retail (1/10 KG),Sorghum red,,0.1,1.0
+2016-11-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,966.6163934426231,,,,,,,282,,,1,,,,Sorghum (red) - Retail (1/10 KG),Sorghum red,,0.1,1.0
+2016-12-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1066.6000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2016.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1481760000.0,0.1,0.0
+2017-01-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1180.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1484438400.0,0.1,0.0
+2017-02-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1300.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1487116800.0,0.1,0.0
+2017-03-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1130.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1489536000.0,0.1,0.0
+2017-04-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1200.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1492214400.0,0.1,0.0
+2017-05-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1200.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1494806400.0,0.1,0.0
+2017-06-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1400.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1497484800.0,0.1,0.0
+2017-07-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1460.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1500076800.0,0.1,0.0
+2017-08-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1460.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1502755200.0,0.1,0.0
+2017-09-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,933.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1505433600.0,0.1,0.0
+2017-10-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,933.3000000000001,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1508025600.0,0.1,0.0
+2017-11-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,915.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1510704000.0,0.1,0.0
+2017-12-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,860.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2017.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1513296000.0,0.1,0.0
+2018-01-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,860.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1515974400.0,0.1,0.0
+2018-02-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,860.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1518652800.0,0.1,0.0
+2018-03-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,860.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1521072000.0,0.1,0.0
+2018-04-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1523750400.0,0.1,0.0
+2018-05-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1526342400.0,0.1,0.0
+2018-06-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1529020800.0,0.1,0.0
+2018-07-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1531612800.0,0.1,0.0
+2018-08-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,632.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1534291200.0,0.1,0.0
+2018-09-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1536969600.0,0.1,0.0
+2018-10-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1539561600.0,0.1,0.0
+2018-11-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,660.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1542240000.0,0.1,0.0
+2018-12-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,730.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2018.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1544832000.0,0.1,0.0
+2019-01-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,752.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1547510400.0,0.1,0.0
+2019-02-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,675.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1550188800.0,0.1,0.0
+2019-03-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,747.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1552608000.0,0.1,0.0
+2019-04-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1555286400.0,0.1,0.0
+2019-05-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1557878400.0,0.1,0.0
+2019-06-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1560556800.0,0.1,0.0
+2019-07-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,800.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1563148800.0,0.1,0.0
+2019-08-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,930.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1565827200.0,0.1,0.0
+2019-09-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,947.5,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1568505600.0,0.1,0.0
+2019-10-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1571097600.0,0.1,0.0
+2019-11-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1573776000.0,0.1,0.0
+2019-12-15,Sorghum (red) - Retail,1/10 KG,cereals and tubers,1060.0,SOS,Malawi,Southern Region,1890.0,Marka,2128.0,282,15.0,5.0,1,2128_282_15_5,,2019.0,Sorghum (red) - Retail (1/10 KG),Sorghum red,1576368000.0,0.1,0.0

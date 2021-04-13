@@ -1,0 +1,6 @@
+Reference area,Time Period,Unit of measure,Obs value,Obs status,Unit mult,Decimals,Freq,Country-iso3,Indicator name
+#geo+reference+area,#date,#meta+unit+measure+name,#indicator+value+num,,#meta+unit+mult+name,#meta+decimals,#indicator+frequency,#country+iso3,#indicator+name
+MW,1997,PT_POP,63.3,A,0,5,A,MWI,PHR_USD190
+MW,2004,PT_POP,73.4,A,0,5,A,MWI,PHR_USD190
+MW,2010,PT_POP,71.7,A,0,5,A,MWI,PHR_USD190
+MW,2016,PT_POP,70.3,A,0,5,A,MWI,PHR_USD190
